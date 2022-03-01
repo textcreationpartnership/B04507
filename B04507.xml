@@ -1,0 +1,852 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bedydd gwedi i amlygu yn eglir ag yn fyddlon, yn ol gair Duw. Ymha un y gosodir allan y gogoneddus batrwn o'n Bendigedig Jachawdwr Jesu, Patrwn yr hôll Gredadwy yn ei ymmostyngiad i fedydd ynghyda siampalau miloedd o'r rhai a fedyddiwyd yn ôl iddynt gredu. / By John Norcott ...</title>
+            <author>Norcott, John, d. 1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 90 KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04507</idno>
+            <idno type="STC">Wing N1227B</idno>
+            <idno type="STC">ESTC R181029</idno>
+            <idno type="EEBO-CITATION">49520948</idno>
+            <idno type="OCLC">ocm 49520948</idno>
+            <idno type="VID">174186</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04507)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174186)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2673:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bedydd gwedi i amlygu yn eglir ag yn fyddlon, yn ol gair Duw. Ymha un y gosodir allan y gogoneddus batrwn o'n Bendigedig Jachawdwr Jesu, Patrwn yr hôll Gredadwy yn ei ymmostyngiad i fedydd ynghyda siampalau miloedd o'r rhai a fedyddiwyd yn ôl iddynt gredu. / By John Norcott ...</title>
+                  <author>Norcott, John, d. 1676.</author>
+               </titleStmt>
+               <extent>[12], 62 p.   </extent>
+               <publicationStmt>
+                  <publisher>tros William Marshall ...,</publisher>
+                  <pubPlace>Printiedig yn Llundain :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Llyfrgell Genedlaethol Cymru/National Library of Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="wel">wel</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Morfudd Nia Jones</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Morfudd Nia Jones</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="wel">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174186:1"/>
+            <pb facs="tcp:174186:1"/>
+            <p>BEDYDD Gwedi i Amlygu yn Eglir ag yn Fyddlon, Yn ol GAIR DUW.</p>
+            <p>Ymha un y goſodir allan y gogo<g ref="char:EOLhyphen"/>neddus batrwn o'n Bendigedig Jacha<g ref="char:EOLhyphen"/>wdwr Jeſu, Patrwn yr hôll Gredadwy yn ei ymmoſtyngiad i fedydd ynghyd<g ref="char:EOLhyphen"/>a ſiampalau miloedd o'r rhai a fed<g ref="char:EOLhyphen"/>yddiwyd yn ôl iddynt gredu.</p>
+            <p>By <hi>Ioan Norcott,</hi> Gwaſnaethur Jeſu Griſt, ai Eglwys.</p>
+            <q>
+               <bibl>JER. 6.26.</bibl>
+               <p>
+                  <hi>Fel hyn y dywed yr Arglwydd ſefwch ar y ffyrdd ag Edrychwch a gofynnwch am yr hên Lwybrau Le mae yr ffordd dda, a rhodíwch ynddi a chwi a gewch orphwyſdra ich eneidiau,</hi> &amp;c.</p>
+            </q>
+            <q>
+               <bibl>ISAY. 30.21.</bibl>
+               <p>
+                  <hi>Dymma'r ffordd rhodiwch ynddi.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>1 COR. 11.1.</bibl>
+               <p>
+                  <hi>Byddwch ddilynwyr i mi megis yr wyf finnau i Griſt.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>MAT. 3.16.</bibl>
+               <p>
+                  <hi>Fel hyn yn y (dwtch ende doc Jeſus ge doop wat quam hi wrſtont vanden water): ar Jeſu wedi ei drechi a aeth yn y fan i fynu o'r dwfr.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>LUC. 7.30.</bibl>
+               <p>
+                  <hi>Eithr y Phariſoeaid a'r Cyfreithwyr yn eu herbyn eu hunain à ddiyſtyraſant gyngor Duw, heb eu bedyddio ganddo.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>MAT. 11.25.</bibl>
+               <p>
+                  <hi>I ti yr ydwyf yn diolch o dâd Arglwydd nef a daiar, em i ti guddio y pethau hyn rhag y do<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>thion ar rhai deallus a'u datcuddio o<g ref="char:EOLunhyphen"/>honot i rai bychain.</hi>
+               </p>
+            </q>
+            <p>Printiedig yn <hi>LLundain</hi> tros <hi>William Marſhall,</hi> ac ar werth wrth <hi>L<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> y Bibl yn <hi>Newgate-ſirect;</hi> P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> le y gelly<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>Cael <hi>Bibls Cymraeg</hi> 1694.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:174186:2"/>
+            <pb facs="tcp:174186:2"/>
+            <pb facs="tcp:174186:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:174186:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <head>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>R EPISTOL ARODDIR.</head>
+            <head type="sub">At y <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>dd bychain etifeddion y deyr<g ref="char:EOLhyphen"/>n<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nwaith fel defaid yn myned ar gyfargoll on<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yn awr gwedi dych<g ref="char:EOLhyphen"/>welud at Eſc<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> mawr a bugail en<g ref="char:EOLhyphen"/>eidiau; tangne<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dyf tragwyddol, trwy drugaredd <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, a amlhâo.</head>
+            <opener>
+               <salute>GAREDI<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ION,</salute>
+            </opener>
+            <p>Y Peth a oſodais och blaen chwi yw'r hŷn a glywſoch unwaith ag ydŷch yn ymmarfer ag ef: ag am y peth y ſcri<g ref="char:EOLhyphen"/>fennais cumeraf y Duw mawr yn Batrwn ag yn amddiffynnwr yn hŷn gan nad yw ond ei ewyllys ef: Yr hyn na ddi<g ref="char:EOLhyphen"/>chon neb wadu ond y rhai a geir rhyw ddiwrnod yn gwrthwynebu y Crea<g ref="char:EOLhyphen"/>wdwr; a chan fod yn ſic'c'ir gennyf ych bod chwi yn rhai ag ſydd yn caru'r gwirionedd yr wŷf yn coelio y greſſewch
+<pb facs="tcp:174186:4"/>chwi hwn, am y dichon fôd yn ber<g ref="char:EOLhyphen"/>thy naſſol ich <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> chwi yn chwaneg.</p>
+            <p>Na fydded yn ofid i chwi adiodde gwradwydd er mwyn Criſt. Am ei awdyrdod ef yr ydym yn ymdrechu, ag efe a ymddengis cyn bo hir fel yr unig Alluog; y mae yn boſſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l fod ych Cyfran yn debig i'r un a elwy<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Agrippa,</hi> y'r hwn a garcharwyd am chwennych i <hi>Caius</hi> fod yn Ymmerodr, <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> oſod<g ref="char:EOLhyphen"/>wyd mewn cadwyn o haiarn; ond ychy<g ref="char:EOLhyphen"/>dig yn ôl i <hi>Caius</hi> ddyfod yn Ymmerodr, y'r Cyntaf a dderchafwyd oedd <hi>Agrippa;</hi> fe gymerodd ymmaith y gadwyn hai<g ref="char:EOLhyphen"/>arn, a rhoddodd iddo u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aur, link am link, a ffwys am bwys, gŷn drwmed ag oedd ei un haiarn ef<g ref="char:punc">▪</g> Nid oes ond ychydig amſer ag efe a ddaw, yr hwn yr ydych yn chwennych ei fôd yn Ym<g ref="char:EOLhyphen"/>merodr, ſef yr Ar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lwydd Jeſu: A byddwch ſic'c'ir os caif cwppaniediau o ddwfr oer i gobrwyo, yfydd-dod iw wiri<g ref="char:EOLhyphen"/>onedd a gaif: ac ef a fych ymmaith ych holl wradwyddiadau, fe a wnaiff i ymddangos beth na yn bod ni yn amca<g ref="char:EOLhyphen"/>nu ei ogoniant a'i nad ydym: ag os pan oſodo fe weithredoedd ynglorian y cyſſeger, hyn a geir o bwys athan ei
+<pb facs="tcp:174186:4"/>argraff ef fel yn ddiammau y bŷdd, gan hynnŷ byddwch gyffurus nid y chwi, ond efe 'r ydis yn ei ddirmygu; nid y chwi ond ei wirionedd ef a ddibriſſir. A'r brenin a ddigia pan ddelo fe i mewn i weled y gwaddedigion.</p>
+            <p>Gan hynnŷ fel y mae y gwirionedd lleia yn werthfawr gan blant y gwirio<g ref="char:EOLhyphen"/>nedd fellŷ na fydded yddynt orphwys yn y gwirionedd mwia yn fyr o feddiant o<g ref="char:EOLunhyphen"/>hono ef, yr hwn yw 'r gwirionedd i hûn: Mae yn boſſibl y dwed rhai, paham yr ydŷch yn dechre yn ych ymddangoſiad cyhoeddus i bennu ar fedŷdd; pethau mwy perthneſſol a allaſſau fôd yn fwy buddiol: ond 'r wif yn cymerŷd ſiampal 'r Arglwydd trwy 'r Prophwyd, 'r hwn a ddaliodd ſulw ar yr un ordinhâad a ddibriſhwyd, hynnŷ ŷw gwyl y pebill, <hi>Zacha.</hi> 14.16, 17. <hi>A bŷdd i bob un a adawer o'r hôll genhedloedd nid elo i fynu i addoli y brenin Arglwydd y lluoedd, ag i gadw gwyl y pebill in</hi> Jeruſalem <hi>na bŷdd glaw arnynt.</hi> Gwŷl y Pebil oedd Or<g ref="char:EOLhyphen"/>dinhâad, ag am nad arferŷd, ni bŷdde glaw arnynt hwy: peth bychan i dorri law'r ganghennau ag adeiladu bythau: Etto os hyn a eſceuliſſir, arnynt hwy nu bŷdd glaw: fellŷ yr wŷf yn dywe<g ref="char:EOLhyphen"/>dŷd
+<pb facs="tcp:174186:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:174186:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:174186:6"/>'r Ordinhâad gwedi ei eſceuliſſo ag nid yn cael ei harfer mewn purdeb yn ôl y dull yn y mynŷdd mi a dibiais yn dda i bennodi arni: panfo Long i gy<g ref="char:EOLhyphen"/>fodi hwyl ar y môr mawr; Nid ŷw athro doeth yn edruch yn vnig am gael anghorau a hwyliau da, a rhodfeudd godidog, ond am gael hefud gauad pob agen; canis fe ddichon holltes fe<g ref="char:EOLhyphen"/>chan heb ei chauad, ſuddo <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Long; aganufudd ini y rhai a orfudd cyn bo hir gyfodi ein hwŷl ar y môr o dragwyddoldeb edrŷch afudd pob agen gwedi chauad, na godde un pe<g ref="char:EOLhyphen"/>chod trwy wybod; Na byw mewn Eſceuligiad o un gorchymyn: happiau 'r peth a eilw rhai yn ddim, a eilw Duw yn wrthniſſigrwydd, a pheth a ddaw o<g ref="char:EOLunhyphen"/>honŷnt gwedin, gain hynnŷ fy mawr ddei<g ref="char:EOLhyphen"/>ſyfiad oddiwrth 'r Arglwydd yw: Mae fel y cawſoch eich claddu gyda Chriſt trwyſedŷdd, felly y Rhodiech mewn newŷdd-deb buchedd, och na adewch ich marweddiad roddi y'r celwydd ich prof<g ref="char:EOLhyphen"/>feſſiad byddwch fyw fel pobl gwedi eu golchi, ag fel y gwelwch ych galwadi<g ref="char:EOLhyphen"/>gaeth, mae nid Lawer or rhai doethion nid Lawer o foneddigion yn ôl y cnawd a alwyd ond Duw ach dewiſoedd chwi
+<pb facs="tcp:174186:6"/>y rhai oeddech wrth naturiaeth mor aflan ag eril, ag ach goſododd ymmy<g ref="char:EOLhyphen"/>yſc y plant, byddwch fuw fel plant o un tâd, ag ymhob neſsâad tuag at ei orſedd-fainc ogoneddus Cofiwch 'r hwn ſudd yn cyfri yn anrhudedd iddo wa<g ref="char:EOLhyphen"/>ſanaethu 'r Arglwydd ai braidd by<g ref="char:EOLhyphen"/>chain, gyda chariad diragraith hyd y diwedd.</p>
+            <closer>
+               <signed>JO. NORCOTT.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:174186:7"/>
+            <head>At ei wir garedigol gyfeillion ai frodur y rhai ſudd yn Caru ein Arglwydd Jeſu mewn ſimmulr<g ref="char:EOLhyphen"/>wydd plant o un tâd cyfrano<g ref="char:EOLhyphen"/>gion o ogoneddus yſprŷd ei râs ef.</head>
+            <opener>
+               <salute>Frodur Anwyl,</salute>
+            </opener>
+            <p>CYfran <hi>Joſeph</hi> oedd cael i ddidoli oddiwrth ei Frodur ond duw ai pwr<g ref="char:EOLhyphen"/>paſſodd er daioni, er na welwyd ef y prŷd hynnŷ etto fe a ymddangoſſodd mewn am<g ref="char:EOLhyphen"/>ſer cyfaddas; breuddwydion <hi>Joſeph</hi> a gyflawnwyd ag er i'r ſaethyddion Sagathu yn greulon atto ai ofidio ef; aroſſodd ei fwa er hynnŷ yn gruf; Oh mor dda ydyw bôd yn inion gida 'r Arglwydd, un o dôſt ddrygau'r Amſerau yw fôd Brodur yn ſaethu at Frodur: ond hŷn afudd drugaredd yn ddiau, pe bau ein hôll amcanion ni yn fwy i fôd y'r un ffurf â Chriſt; un rhan o ffurfdra a'n Harglwydd Jeſu, yw yfudd-dod i'r worthfawr Ordinhâad o fedydd gan
+<pb facs="tcp:174186:7"/>farnu ych bod chwi o'r cyfriw ac ſydd yn cyrchu ar ôl Christ ych pen, ynghŷd a thyſtiolaeth o fynghariad didwyll i chwi goſodais ger ych bronnau 'r ychydig bethau hŷn om medduliau ich difrifol yſtyriaeth: darllenais am ddau gyfaill anwŷl ddarfu dreilio rhan fawr o'r dŷdd ynhylch rhŷw anghytyndeb oedd rhyngddŷnt nis gallent gummodi, ag felly ymmadawſant, á phan gofiodd un o<g ref="char:EOLunhyphen"/>honŷnt y Text hwnnw <hi>Ephe. 4.26.</hi> fe a redodd at y llall gan ddywedŷd, <hi>Mae'r Haul yn macludo,</hi> ag wrth hŷn fe ddarfu iddŷnt ill dau yn fuan guttuno: fy mrodur, mae ein haul ni yn machludo, tragwyddoldeb ſŷdd arnom; ag oni chawn yſtyried y gwaith ſŷdd gennŷm i wneuthur dros 'r Arglwydd? attolugaf arnoch dybygu ir Bereaid honeddig, chwiliwch a ydi 'r pe<g ref="char:EOLhyphen"/>thau hŷn fellŷ ag os cewch y pethau hŷn nid yn eiddo fi onid y'r Arglwydd yno rhowch iddo 'r gogoniant ſudd ddyledus iw enw ef. Garedigion, fel y gwneuthŷm fellŷ 'r appela i gluſtiau Arglwŷdd y Sabbâth, fel <hi>Elias, Oh Arglwydd, Duw</hi> Abraham, Iſaac, <hi>ac</hi> Iſrael, <hi>amlyga r' dŷdd heddiw, aminnau yn wâs iti, ag imi wneuthur y pethau hŷn wrth dy air di: Nawr Arglwydd deſcyned tân or nef ar yr aberth hyn fel yr yfo i</hi>
+               <pb facs="tcp:174186:8"/>
+               <hi>fynu hôll ddyfroedd ymryſſon:</hi> Ag fel y gallôch ôll lefain, <hi>'r Argl<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> fe ſydd Dduw; 'r Arglwydd fe ſydd Dduw;</hi> Pa beth ſydd ddymuniad Calon 'r hwn ſydd yn anheilwng ich gwaſanaethu; etto ych anwyl frawd yn Jeſu Griſt.</p>
+            <closer>
+               <signed>JO. NORCOTT</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174186:8"/>
+            <head>BEDYDD GWEDI AMLYGU.</head>
+            <p>PAn 'r ydwyt wrth ddarllen yn myned i chwilio allan feddwl duw gâd ith lêf fôd, <hi>Arglwydd eneinia fy Lygaid ag eli Lygaid fel y gwelwyf;</hi> ag os bu hi yn ddydd o nerth 'r Arglwydd ar dy Enaid, nid oſnaf na roi di groeſo i'r gwirionedd, ymmha drwſſiad bynnag y dêl, ag y feddyli fwy am y peth ſudd gynwyſedig yn y Lythyren; nag 'r oſni wael drwſſiad y gennad: yn enwedig gan ei ddyfod oddiwrth un, enw 'r hwn yw 'r Duw mawr. Wrth drîn gân hynny 'r Gwi<g ref="char:EOLhyphen"/>rionedd hŷn, <hi>(hynny ŷw)</hi> Bedydd y Credadŷn, fel 'r ymmarferwyd ef gan Griſt a'r brîf Eglwyſi, fy mawr ddeuſ<g ref="char:EOLhyphen"/>yfiad arnat yw: am iti ddarllen yr hyn a ddywerpwyd yn ddibartiol a pheth byn<g ref="char:EOLhyphen"/>nag a geffych yn cytûno a'r gwirionedd derbynniwch fel yr hŷn ſudd mwy
+<pb n="2" facs="tcp:174186:9"/>gwerthfawr nach bowyd, a bernwch am<g ref="char:EOLunhyphen"/>dano yn ôl yr Scrythurau Sanctaidd, canys pan ddarffo dywedŷd yr hyn ôll â ellir ddywedŷd; rhaid iddŷnt hwy farnu ym hob gwrth-ddadl o grefudd ag fel y mae Criſt yn ſyluaen ar yr hwn pwy bynnag a adeilado ni chant eu gwradwyddo; mi ga gan hynny ddal ſulw ar rai pethau y berthŷn i Griſt yn ei fedŷdd; ag yn hyn y gellwch ddal<g ref="char:EOLhyphen"/>ſulw mor fanwl y mae 'r Scrythurau Sanctaidd, i oſſod i lawr 'r Amgylch<g ref="char:EOLhyphen"/>iadau oi Fedŷdd ef.</p>
+            <div type="chapter">
+               <head>BENNOD. I. <hi>Griſt a Fedyddiwyd yn Afon 'r</hi> Jorddonen.</head>
+               <p>AM Fedŷdd 'r Arglwydd Jeſu Griſt, y gellwch ddarllen yn helaeth, <hi>Mat.</hi> 3.13. <hi>Yna y daeth 'r Jeſu o</hi> Galiloea <hi>i'r</hi> Jorddonen <hi>att</hi> Joan <hi>yw Fedyddio ganddo.</hi> Mae pob gair yn bwysfawr <hi>(yna)</hi> cyn iddo ddechreu ar y Wenid<g ref="char:EOLhyphen"/>ogaeth gyhoeddus fel y gwelwch <hi>Mat.</hi> 4.17. <hi>O'r prud hynny y dechreuodd 'r Jeſu bregethu, (fe ddaeth)</hi> fe allaſau orchym<g ref="char:EOLhyphen"/>mŷn <hi>Joan</hi> i weini iddo; ond mewn ar<g ref="char:EOLhyphen"/>wydd oi oſtyngeiddrwydd, fe a ddaeth
+<pb n="3" facs="tcp:174186:9"/>(o <hi>Galiloea</hi>) lawer o filltiroedd, ag y mae yn dybygol ar ei draed; pob cam â gerddom dros dduw ſydd gymeradwy ag a gaiff ryw ddiwrnod ogoneddus obrwy: <hi>i'r Jorddonen</hi> lle 'r oedd afon lle bedyddwyd miloedd ynddi ag oedd Le cyfaddas i <hi>Joan</hi> drochi Chriſt ynddi: fely ceir gweled yn òl llaw, y nawr mi ga ddal ſulw ar wŷth o bethau ynghŷlch bedydd Criſt.</p>
+               <p>Yn gynta ynghŷlch ei oedran fe ddywedir <hi>Luc.</hi> 21. <hi>Jeſu gwedi ei fedyddie adnod</hi> 23. <hi>Ar Jeſu ei hun oed ynghylch dechre ei ddengmlwydd ar hugain oed;</hi> chwi welwch yma i Griſt ei hun gael ei fedyddio pan oedd yn oedrannus; pa gallaſau neb gael e'u bedyddio yn ei Ievengtyd pam na alloſau Chriſt. Griſt<g ref="char:EOLhyphen"/>nogion na chwilyddiwch ych Atho aeth och blaen 'r oedd ef yn 30 oed, pan y bedŷddiwyd nid oes ar Griſt gwilydd ych galw chwi yn frodyr <hi>Heb.</hi> 2.11.</p>
+               <p>Yn ail; peth arall in i ddal ſulw ym<g ref="char:EOLhyphen"/>medydd chriſt yw 'r gwenidog o'r or<g ref="char:EOLhyphen"/>dinhâad ſanctaidd hon <hi>Joan;</hi> fe gyfa<g ref="char:EOLhyphen"/>ddefodd am<g ref="char:EOLunhyphen"/>dano ei hun Nad odd ef deilwng i ollwng careion ei ſcudiau ef, <hi>Mark.</hi> 1.7. Y nawr os derbynnau Chriſt fedydd oddiwrth y fath offerin an<g ref="char:EOLhyphen"/>heilwng
+<pb n="4" facs="tcp:174186:10"/>na ddibriſſiwch byth o'r ordin<g ref="char:EOLhyphen"/>hâad o herwydd anheilyngdod y gwi<g ref="char:EOLhyphen"/>nidogion; bydded ych Lug<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ar Griſt ych ſiampal.</p>
+               <p>(3) Yn drydydd markciwch y nec<g ref="char:EOLhyphen"/>caad a <hi>Joan a or afynnodd iddo</hi> Mat. 3.14. ni ddylauanhawſtra 'r ddyledſwydd fôd yn eſcus; ni ddylem ni gymerŷd yn gwahard o ganlyn ar ôl duw, <hi>ymdrech<g ref="char:EOLhyphen"/>wch am fyned i mewn i'r porth cyfing.</hi>
+               </p>
+               <p>(4) Yn bedwaredd, markiwch reſum Joan <hi>mae arnaffi eiſiau fy medyddio genit ti ag a ddeui di attafi:</hi> ni fyn rhai moi bedyddio oni bydd anghenrheidrwydd; y rheſſwm cnawdol yw: oni allaf fynd ir nefoedd er na chaffwyf fedŷdd, a yw è yn anghenrheidiol i Jechydwriaeth; â ydyw hyn debig ich Arglwydd ach athro, onid oedd ef yn jachawdwr perffaith, onid oedd 'r yſpryd gwedi eu dywallt arno yn anfeſſurol nid oedd arno ddim pechod i olchi ymmaith gan hynnŷ gwelwch ych ſiampal nid yw ef yn gwneuthyr mohono o angen, ond o yfuddod i ewyllys ei dâd.</p>
+               <p>(5) Yn bummed Marckiwch 'r enwau godidog y mae ef yn i roddi i'r ordinhâad hon o fedydd (1) fe ai gal wyff yn gyfiawnder <hi>Mat.</hi> 3.15. Mae yn
+<pb n="5" facs="tcp:174186:10"/>gyfiawn ag yn weddus fy môd i ynghy<g ref="char:EOLhyphen"/>lch gwaith fynhâd; 2. Mae yn beth gweddus, mae yn weddus i ni; o y mae yn beth gweddus Jawn ymmhlant duw i edrych at hôll orchymynion duw (3.) Y Gyſulltiad (<hi>ni</hi>) di, afi, am hôll ddilŷnwyr <hi>Joan,</hi> 12.26. <hi>Os gwaſaneutha neb fi dilyned fi a lle 'r wi fi yno bydd fyng<g ref="char:EOLhyphen"/>weinidogion hefyd</hi> (4) (<hi>Cyflawnder</hi>) y mae e yn gyflawniad 2 <hi>Cor.</hi> 10.4. <hi>Ganŷs arfau yn milwriaeth ni, nid ydynt gnawdol ond yſprydol adnod</hi> 5. <hi>gan gaethrwo pob meddwl i ufudd dod Chriſt (a<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nod 62) ag yn barod gennym ddial ar bob anufydd dod pan gyflawnir ych ufudd dod chwi:</hi> ufudd<g ref="char:EOLhyphen"/>dod fŷdd raid cyflawni (5.) yr enw cyffredinol (<hi>pôb</hi>) bedydd yw un o bob mae Chriſt yn ei gyfrif oſ felly: ni elli rodio yn yr holl orchmynion os hwn â adewir.</p>
+               <p n="6">6. Markciwch yn fedydd Chriſt ffurf y weinidogaeth <hi>Mat.</hi> 3. <hi>ag yn y fan fe aeth i fynu o'r dwfr,</hi> o<g ref="char:EOLunhyphen"/>herwydd fod bedydd unwaith <hi>yn drochi (i fynu)</hi> oni buaſſau fe i lawr ni ddywedaſſyd fe aem i fynu (<hi>fe aeth</hi>) ni chariwd mewn breichiau fel yr ydis yn cario plant (<hi>o'r dwfr</hi>) os aeth ef allan o'r dwfr yna fe fu ynddo: ni ddywedwn un amſer i un
+<pb n="6" facs="tcp:174186:11"/>fyned allan o'r ty, pan na fu erioed i mewn, felly ni allaſyd dywedŷd i Griſt ddyfod allan o'r dwfr oni buaſſau ynddo, <hi>deth i fynu o<g ref="char:EOLunhyphen"/>hono,</hi> pe dygaſyd ychydig ddwfr atto mewn cawg, ni ddywedaſſyd iddo fyned i fynu <hi>o'r dwfr,</hi> y dwfr hŷn oedd afon 'r <hi>Jorddonen.</hi> Mae Chriſt yn ymmoſtwng i bethau bychain am i fod yn ordinhâad.</p>
+               <p n="7">7. Markciwch am fedydd Criſt bod<g ref="char:EOLhyphen"/>lonrwydd y tád <hi>Mat.</hi> 3.16.17. (<hi>y nefoedd</hi>) agorwyd: rhai o ddilynwyr Chriſt a gawſont agoriadau gogoneddus am y nof yn y bedydd, (<hi>yr yſpryd a ddeſcynnodd</hi>) yr un hynnŷ a ddawfyd i'r rhai ſydd yn credu yn y bedydd Actau. 2.38. <hi>Ediferhewch a bedyddier pob un o<g ref="char:EOLunhyphen"/>honoch a Chwi â derbynniwch ddawn yr yſpryd glân.</hi> Gwrthddadl. <hi>A ydyw pob un a fedyddier yn derbŷn yr yſpryd glân? Atteb.</hi> Nid yn y bedydd y mae 'r diffig onid yn edifeirwch a ffŷdd, heb y rhai nid oes un ordinhâad yn effeithiol (<hi>ag wele lêf o'r nef hwn yw fy anwyl fâb</hi>) Chriſt fel pen a Sealwyd: ag yn y bedydd mae duw yn ſelio mabwſiad i aulodau (<hi>yn yr hwn im bodlonwyd</hi>) nid yn unig yn yr hyn ôll a wnaeth ag y mae yn i wnouthur, ond hefyd yn y
+<pb n="7" facs="tcp:174186:11"/>weithred o ufudd-dodi fyngwyllys gogo<g ref="char:EOLhyphen"/>neddus. Ceuſym fodlonrwydd, ag felly y câedd 'r Arglwydd fodlonrwydd yn y weithred o ufudd-dod y mha un 'r ydim yn ufuddhâu o'r galon i ffurf o athrawieth a draddodwyd i ni <hi>Rhuf.</hi> 6.17. Yr un Lyferydd a gafodd bendigedig fâb duw yn y mynydd <hi>Luc.</hi> 9.36. <hi>Hwn yw fy anwyl fâb; gwrandewch arno ef.</hi> Gwran<g ref="char:EOLhyphen"/>dewch arno yn ei orchymynion, gwran dewch arno y nawr yn ei fedydd. oh medd Chriſt fel hyn y gweddau ini: y chwi ſydd a'm tâd i yn dâd i chwi: chwi fŷdd a'm Duw i yn Dduw i chwi, fel hyn y gweddau i ni gael ein bedyddio ag i gyflawni pob cyfiawnder; oh mae è yn fâb anwyl gwrandewch arno ef.</p>
+               <p n="8">8. Marckiwch fel y mae 'r drindod megis yn cyfarfod ymmedydd Chriſt y tâd gida Lyferydd, y mâb gwedu i fedyddio yn ei berſon, yr yſpryd glân yn deſcŷn fel Clommen: ac yn ſiccir mae è yn un rheſſwm en<g ref="char:EOLunhyphen"/>wedigol pa<g ref="char:EOLunhyphen"/>ham yr arferir bedydd yn enw yr tâd a'r mâb a'r yſpryd glân: am fôd y neb a fedyddier ag a fo yn Cowir gredu, mau'r holl drindod y tâd a'r mâb a'r yſpryd yn gyfran iddo, a'r gogoneddus undeb o'r drindod ymmedydd Criſt atgofier ym<g ref="char:EOLhyphen"/>medydd pob credadŷn.</p>
+            </div>
+            <div type="chapter">
+               <pb n="8" facs="tcp:174186:12"/>
+               <head>BENNOD. II. <hi>Am y Gorchymmyn mawr am fedydd y credadŷn.</hi>
+               </head>
+               <p>Fel y clywſoch beth am ych patrwn mawr 'r Arglwydd Jeſu: felly y nawr y câf ddangos i chwi ryw beth ynghylch ei orchymmŷn ef, <hi>Mat.</hi> 21.19. Ag mi a ddeuſſyfiaf dalwch ſulw beth a ddywedir am 'r Arglwydd Jeſu <hi>Acts.</hi> 1.1. fe ddywedir am Griſt iddo wneuthur yn gyſtal a dyſcu; mae yn dda i Athra<g ref="char:EOLhyphen"/>won dybygu iw Harglwydd i wneuth<g ref="char:EOLhyphen"/>ur, yn gyſtal a dyſcu; adnod 2. <hi>Der<g ref="char:EOLhyphen"/>bynnŷwd ef i fynu, wedi iddo trwy 'r y<g ref="char:EOLhyphen"/>ſprŷdroddi Gorchymynion iw Apoſtolion;</hi> o'r cyfriw orchmynion, hwn o fedydd y credadŷn yn ſiccir ſydd yn un, ag fel y gwelwch <hi>Mac.</hi> 28.18.19.20. Y Duw mawr ai rhoddodd i fôd yn Athro, ag yn arwinudd iw bobl <hi>Jſai.</hi> 55.4. Mau Chriſt yn rhôdd fel yn gorchmynnwr; O pwy fath drugaredd ydyw cael fath Athro doeth; gorchmynion pa un, i'r credadwy nid ydŷnt drymmion: o gadw ei orchmynion mae gwobr lawer. <hi>Bſul.</hi> 19.11. Nawr yn y gorchymyn hwn mae wyth O bethau yn enwedigol i graffu arnŷnt.</p>
+               <pb n="9" facs="tcp:174186:12"/>
+               <p n="1">1. Yn gvnta dalwch ſulw o ba le y daeth Chriſt pa<g ref="char:EOLunhyphen"/>ham y daeth allan o'r bedd, Jeſu gwedi gyfodi, <hi>a duw ai cy<g ref="char:EOLhyphen"/>fododd oddiwrth y meirw ag ai danfonodd in bendithio ni Acts.</hi> 3.26. Yn ddiau ni ddarparaſſau y bendigedig Jeſu ddim ond oedd dda iw bobl, mau ef-yn Jeſu bendigedig ag y mae ef yn rhoddi go<g ref="char:EOLhyphen"/>rchmynion bendigedig; <hi>gwyn ei bŷd y Rhai ſy yn gwneuthur ei orchymynion ef; fel y byddo iddynt fraint ymmrben y bowyd ag y gallont fyned i mewn trwy'r pŷrth i'r ddinas.</hi> Datc. 22.14.</p>
+               <p n="2">2. Yn ail Marckiwch Criſt a ymdd<g ref="char:EOLhyphen"/>angoſſodd ag a ddaeth attŷnt, nawr ped ymddangoſſau Angel a gorchymmŷn i fedyddio pobl pwy ai gwrthſefau. ond y mae gennŷch ymma ogoneddus fâb Duw yn ei berſon ei hunan yn ymdd<g ref="char:EOLhyphen"/>angos ag yn dywedŷd, <hi>ewch dŷſcwch a bedyddiwch.</hi>
+               </p>
+               <p n="3">3. Yn drydydd craffwch gida pa fâth awdyrdod y mae ef yn dyfod, <hi>Mat.</hi> 28.18. <hi>Rhoddwyd ymi bob awdurdod yn y nêf ag ar y ddaiar;</hi> pob gallu i orchymmŷn a roddwyd i mi yn gyſtal yn y nêf ag a'r y ddaiar; pob gallu i gyfrannu y nefoedd a'r ddaiar pob gallui ymddiffin: y mae angelion a dynion-wrth fyngor<g ref="char:EOLhyphen"/>chymmŷn;
+<pb n="10" facs="tcp:174186:13"/>yr wi yn abl ich amddiffin ag i ſefull gida chwi: ag i fod gida chwi yn gyſtal yn y tân ag yn y dwfr, pob gallu fŷdd gennyfi; <hi>ewch gan hynnŷ dyſcwch a bedyddiwch</hi> nag ofnwch neb gelynion; <hi>Ewch dyſcwch a bedyddiwch.</hi>
+               </p>
+               <p n="4">4. Yn bedwaredd Craffwch ar y gorchymmŷn ei hunan <hi>Mat.</hi> 28.19. Medd Chriſt, <hi>ewch gan hynnŷ dyſcwch a bedyddiwch;</hi> Ni wnaeth Criſt ond dy<g ref="char:EOLhyphen"/>wedŷd, wrth leng <hi>ewch Mat.</hi> 8.32, a hwy a ruthraſſant yn fuan ag oni fydd i'r Credadwy fód yn bobl ewyllyſgar yn nŷdd ei nerth; ni wnaeth y Canwriad ond dywedŷd ewch wrth ei weiſion a hwy authant ni wnaeth ef ond dy<g ref="char:EOLhyphen"/>wedŷd deuwch a hwy a ddaethant, ag ni wnaeth ef ond dywedŷd gwneuch hŷn a nhwy ai gwnaethant, ag a fydd gwei<g ref="char:EOLhyphen"/>ſion Criſt yn waeth iddo ef nag oedd gweiſion y Canwriad; Criſt ſŷdd yn dywedŷd, <hi>ewch.</hi>
+               </p>
+               <p n="5">5. Yn bummed craffwch beth ſydd ragflaenor i'r bedydd: ewch dyſcwch, mae yn rhaid fod dŷſceidiaeth, yſpryd ŷw duw Rhaid i'r rhai ai haddolant ef ei addoli mewn yſpryd à gwirionedd, Canys y cyfriw y mae 'r tâd yn geiſio iw addoli ef <hi>Joan.</hi> 4.24 Gan hynnŷ
+<pb n="11" facs="tcp:174186:13"/>mae yn rhaid i'r ddyſceidiaeth fyned o flaen bedyd, onidè nid addolant ef bŷth mewn yſpryd a gwirionedd: <hi>ewch dyſcwch a bedyddiwch.</hi> yr wi fi yn cyfad<g ref="char:EOLhyphen"/>de fôd Llawer o bobl yń dywedŷd fôd y gair dyſcwch yn y groeg yn cynwys gwnewch ddyſcyblion ag ni feiddia fi ddywedŷd yn erbŷn hynnŷ canys yr wŷf yn ei gael yn arferedig gan Jeſu Chriſt fe a wnaeth ddyſcyblion yn gŷnta ag ai bedyddiodd gwedin <hi>Joan.</hi> 4.1. <hi>Jeſu a wnaeth ag a fedyddiodd fwy o ddyſcyblion nag Joan,</hi> ymma yn gynta yr oedd gwneuthur dyſcyblion a gwedin eu be<g ref="char:EOLhyphen"/>dyddio nhwy ond pa nifer o eneidiau truain ſydd mewn anwybodaeth yn be<g ref="char:EOLhyphen"/>dyddio y rhai na wnaed erioed yn ddyſcyblion; ond Criſt addywed <hi>dyſcwch a bedyddiwch hwy.</hi>
+               </p>
+               <p n="6">6. Yn wheched Craffwch Helaeth<g ref="char:EOLhyphen"/>rwydd y gorchymmŷn <hi>dyſcwch y'r holl genhedloedd a bedyddiwch hwy.</hi> Ewch at bob cenedl pa un bynn<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> fo'r wlâd hyn<g ref="char:EOLhyphen"/>nŷ ai twym ag oer Jddewon a chen<g ref="char:EOLhyphen"/>hedloedd gwriw a beniw pan ddarffo i chwi eu dyſcu nhwy gwedi hynnŷ bedy<g ref="char:EOLhyphen"/>ddiwch nhwy nawr y mae'r ganol fûr o wahanieth gwedi ei thorri lawr, nawr nid ŷw Duw dderbynniwr wyneb, nawr
+<pb n="12" facs="tcp:174186:14"/>na thybied neb i ymffroſtio fôd <hi>Ahraham</hi> yn dâd iddŷnt; nage, nage; ewch at bob cenedl cyhoeddwch newyddion da 'r efengil i bob creadur <hi>Marc.</hi> 16.15.16. <hi>Y nêb a gredo ag a fedyddier a fydd cadwedig ewch dyſcwch bob cenedl gan eu bedyddio hwy:</hi> pan ddarffo i chwi eu dyſcu nhwy gwe<g ref="char:EOLhyphen"/>din bedyddiwch hwy.</p>
+               <p n="7">7. Yn ſeithfed craffwch <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> yr drefen <hi>Mat.</hi> 28.19. gan eu bedyddio yn enw'<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tâd, y cyfriw ag a dderbynnio 'r Arglwydd Jeſu ar ammodau 'r efengil fe fydd Duw yn dâd iddŷ it, 2. <hi>Cor.</hi> 6.17. Ewch rhoddwch alwad arnŷnt, deu<g ref="char:EOLhyphen"/>wch allan o fŷſc y'r angredadwy, ag ymddidolwch, a myſi a fyddaf yn dâd i chwi a chwithau gewch fôd yn feibion ag yn ferched imi. Sefwch ennyd a rhy<g ref="char:EOLhyphen"/>feddwch ymma: chwi y rhai ydych yn cyfri'r fendigedig ordinhâad o fedydd yn beth diddim, mae pethau gida ni yn awdŷrdodol a wneler yn enw'r brenin, ond ymma <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> enw'r Duw mawr ie mae enw'r dd<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>geledig drindod ymma; y tad y mab, ar yſpryd glân; ag a wyt ti yn meddwl nad oes dim mewn bedydd, ſydd a'r gogoneddus enw hynny yw addoli ai rufeddu: ewch bedyddiwch hwy yn enw gogoneddus y tâd a'r mâb a'r yſpryd glân.</p>
+               <p n="8">
+                  <pb n="13" facs="tcp:174186:14" rendition="simple:additions"/>8. Yn wythfed Marciwch ar yr Ad<g ref="char:EOLhyphen"/>dewid fendigedig ſydd gyſſyltedig, <hi>ewch bedyddiwch, a mi a fydda gida chwi</hi> mae Criſt yn gufaill da, chwi y rhai ydych yn caru ei gymdeithas; Ceiſiwch ef Le'r addawodd ei hun; <hi>gofynnwch am y'r bên Lwybrau Le mae Fordd dda, a rhodiwch ynddi <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> a chwi a gewch orphwyſdra ich eneid<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> gorphwyſdra i'r enaid o'r tu ymma i Griſt nag oes, nag oes, <hi>yn ei breſſenoldeb mae digonolrwydd o lawenydd,</hi> a fynnwch chwi gael ei breſſenoldeb gwnewch fel <hi>Zachews,</hi> ewch i'r ffordd credwch a chymerwch ych be dyddio Canys y mae ef yn dyfod a'r hŷd y ffordd hon (<hi>bedyddiwch</hi>) a mi a fyddaf gida chwi bob amſer hyd ddiwedd y bŷd <hi>amen,</hi> mae <hi>amen</hi> yn canlyn, geiriau ffarwel y cyfeill gorau ydŷnt <hi>bedyddiwch á myfi á fyddaf gida chwi.</hi> Amen.</p>
+            </div>
+            <div type="chapter">
+               <head>BENNOD. III. <hi>SIAMPLAU.</hi>
+               </head>
+               <p>AM lawer o filoedd a fedyddiwyd mewn afonudd y rhai ôll a wna<g ref="char:EOLhyphen"/>ethant gyffes o'i hedifeirwch ai Fydd
+<pb n="12" facs="tcp:174186:15"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="13" facs="tcp:174186:15"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="14" facs="tcp:174186:16"/>ag oeddynt o oedran yn abal i atteb droſtynt ei hunain.</p>
+               <p n="1">1. Siampal Cynta am y rhai a ddy<g ref="char:EOLhyphen"/>wedir i Criſt fedyddio <hi>Joan.</hi> 4.1, 2. fe ddywedpwyd <hi>iddo i gwneuthur hwy yn ddyſcyblion ai bedyddio hwy;</hi> yn gynta maent hwy yn ddyſcyblion, gwedin yn cael e'u bedyddio: fe ai gwnaethpwyd yn ddyſcyblion nis cauſont eu geni yn ddyſcyblion; hynny yw, fe ai gwnae<g ref="char:EOLhyphen"/>thpwyd yn ddyſcyblion trwy bregethiad gair Duw, à gwedin bedyddiwyd hw<g ref="char:EOLhyphen"/>ynt.</p>
+               <p n="2">2. Yr ail Siampal, Mae gennych Siampal yn <hi>Act.</hi> 2.41. <hi>Yna y rhai a dderbynniaſſant ei air ef yn ewyllyſgar a fedyddiwyd:</hi> y'r achoſion o hŷn y gewch chwy <hi>Adnod</hi> 37. <hi>hwy a ddwysbigwyd yn e'u calon: ni wyddent beth a wnaent,</hi> y'r oedd pwys y pechod yn gorwedd yn drwm arnŷnt, mae 'r Apoſtol yn mynegu iddynt, <hi>y dylent edifarhâu a chymeryd ei bedyddio a gwedin y caent dderbŷd y'r yſpryd glân, yna y rhai â dderbynniaſſant y gair yn ewyllyſgar a fedyddiwyd y mae</hi> trugaredd yn felis i'r enaid Archolledig ag ni attal y cyfriw enaid oddiwrth un ddyledſwydd, nawr fe gymmer ei drochi mewn dwfr wrth orchymmyn Criſt <hi>adnod,</hi> 41 a
+<pb n="15" facs="tcp:174186:16"/>
+                  <hi>chwanegwyd attŷnt y dwthwn hwnnw yn<g ref="char:EOLhyphen"/>ghylch tair mil o Eneidiau.</hi>
+               </p>
+               <p n="3">3. Siampal: Siampal arall y gewch <hi>Act.</hi> 8.12. <hi>Eithr pan gredaſſant i Phillip yn pregethu y pethau y berthynent i deyrnas Dduw ag enw 'r Jeſu, hwy a fedyddiwyd yn wŷr ag yn wragedd:</hi> a phan y crèdaſ<g ref="char:EOLhyphen"/>ſant <hi>adnod.</hi> 5. hwy o <hi>Samaria,</hi> ag er dim a wyddom ni Rhai ô rheini a fynnaſau yr diſcyblion ychydig o'r blaen alw am dân o'r nêf arnŷnt <hi>Luc.</hi> 9.52.54. er hynny pan ddaeth y rhai hyn i gredu hwy a fedyddiwyd, yn wŷr ag yn wra<g ref="char:EOLhyphen"/>gedd; oh er agoſſed at uffern, os credi a chymeryd dy fedyddio mae trugaredd ti.</p>
+               <p n="4">4. Siampal. Mae gennych Siampal arall am fedyddio 'r credadwy yn <hi>Acts.</hi> 8.5. <hi>Phillip a bregethodd ir efnuch, yr Jeſu, adnod</hi> 36. <hi>Hwy a ddaethant at ryw ddwfr ar Efnuch a ddywedodd wele ddwfr beth ſydd yn Luddias fy medyddio, ag adnod</hi> 37. A Phillip a <hi>ddywedodd os wyt ti yn credu a'th holl galon fe à ellir;</hi> 'r os hwn, yw'r os, yr ydin ni yn ſefyll arno: er tylot<g ref="char:EOLhyphen"/>ted, er gwauled ydwyt: os Duw a wnaiff unwaith i ti gredu yna y gellir dy fedyddio: nid ei rieni duwiol nid ei ddarlleniad, nid ei ddyfoddiad i Gae<g ref="char:EOLhyphen"/>ſalem i addoli, nid ei ewyllyſgarwch i fedyddio
+<pb n="16" facs="tcp:174186:17"/>
+                  <hi>ond os ydwyt yn credu di ellu;</hi> medd y Groeg mae'n gyfreithlon mae'n gytun a chy<g ref="char:EOLhyphen"/>fraith Criſt <hi>adnod</hi> 38. <hi>hwy a aethant ill dau i wared i'r dwfr, Phillip ar efnuch a fe ai bedyddiodd ef.</hi> wele wr oedd dryſſorwr mawr Brenhines <hi>Ethiopia:</hi> gwr goludog; gwr anrhydeddus, gwr crefyddol; gwr mae yn debig oedd à Llawer yn gweini wrth ei gerbŷd, mae ef yn i hattal hwy e'u gŷd ag yn gorchymmŷn i bawb ſefull yn Llonŷdd hud oni roddau ef yfudd-dod iw Arglwydd ai Athro yn y bedydd dwfrllyd: fe ddichon yn nawr fyned i lawr i'r dwfr er ei fwyn ef, yr hwn a ddaeth i wared o'r nêf er ei fwyn yntef; nid yw yn cyfrif yn ddianrhydedd ufuddhâu Criſt trwy ei weinidog tlawd <hi>Philip:</hi> oh ddaroſtŷngeiddrwydd yr en<g ref="char:EOLhyphen"/>eidiau fydd wir raſol; nid oes dim rheſummau yn gweithio fel cariad, <hi>gan hynnŷ os cerwch fi cedwch fyn gorchymynnion.</hi> Ymma mae myned ei wared, a dyfod i fynu, yn gyffelib i ffurdd gogoneddus Criſt: mae e yn gynta yn taflud i lawr, gwedin yn cyfodi i fynu, yn gynta yn dwyn i'r bêdd, gwedin yn dywedyd <hi>dychwelwch chwi blant dynion; adnod</hi> 39. <hi>ag efe a aeth ar hŷd y ffordd ei hun yn Llawen;</hi> oh pafarh orfoledd ſudd yn ffurdd <hi>Chriſt;</hi> wrth gadw 'er nid am
+<pb n="17" facs="tcp:174186:17"/>gadw ei orchymynnion ef y mae yn gy<g ref="char:EOLhyphen"/>ſtal ag y bydd gwobr lawer. (<hi>fe aeth âr hyd y ffordd) Job.</hi> 17.9. Y cyfiawn hefud a ddeil y ffordd a'r glân ei ddylaw a chwanega gryfdwr. Pa nifer a attaliaſſant yn e'u fordd a wylaſſant yn e'u ffordd, a ollwngaſſant yn e'u ffordd, ond pan gawſant e'u bedyddio; aethant a'r hŷd y ffordd yn Llawen: fe allaſau fôd a chalon driſt, er ei fôd yn dryſſo<g ref="char:EOLhyphen"/>rudd goludog, golud ni thyccia: <hi>pan ei bedyddiwŷd fe aeth ar hŷd y ffordd yn Llawen; ceidwad y carchar pan ei bed<g ref="char:EOLhyphen"/>yddiwyd a lawenhâodd gan gredu yn Nuw ai holl deulu.</hi>
+               </p>
+               <p n="5">5. Siampal. Y Siampal neſſa a ddawn atto yw bedydd y'r Apoſtol Enwedigol <hi>Paul Acts.</hi> 22.16. <hi>Ag y'r awr hon bcth y'r wyt tiyn ei aros: cyfod bedyddier di, a golch ymmaith dy bechodau:</hi> a fynnu di gael dy enaid yn gyflawn o lawenudd, a gaiff Criſt fôd yn Athro iti cyfod; ynte pa beth y'r wyt ti yn aros, a bedyddier di, <hi>yr hwn a ymddangoſſodd iti a'r y ffordd pan oeddit yn erlidiwr: ag ath attaliodd Rag myned i uffern pan oeddit yn rhedeg; am danfonodd, medd Ananias.</hi> Acts. 9.15. <hi>Ag yr awr b<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> i ba beth yr Aroſſû cyfod a bedyddier di.</hi> A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts. 22.16. <hi>Di fuoſt yn erlid<g ref="char:EOLhyphen"/>iur,</hi> ag y'r awr hon y dangoſaf iti fod
+<pb n="18" facs="tcp:174186:18"/>yn rhaid iti fôd yn bregethwr: ag yn ddioddefwr; fel yn <hi>Acts.</hi> 9.15, 16. Gan hynnŷ cyfod i ba beth y'r aroſſi, a bedyddier di: oh derbyn ammodau a chynygion trugaredd, gwna groeſo i drugaredd ond na oſſod ef heibio dros un diwrnod i beth y'r aroſſi? awyt ti yn tybied dy hun yn anheilwng ag am hyn<g ref="char:EOLhyphen"/>ny yn aros? nâd i hynnŷ dy rwyſtro; mynegaf iti oddiwrth y'r Arglwydd dy fôd yn leſter etholedig, <hi>Act.</hi> 9.15. Gan hynny cyfod i ba beth y'r aroſſu à bedy<g ref="char:EOLhyphen"/>ddier di; mae 'r arglwydd yn fodlon i faddeu dy holl bechodau gynt, ag ith dderbin ar ammodau 'r efengil, ag yr awr hon i ba beth y'r aroſſi cyfod a bedyddier di, a golch ymmath dy be<g ref="char:EOLhyphen"/>chodau.</p>
+               <p n="6">6. Siampal: Siampal arall am fedydd y credadŷn yw bedydd ceidwad y carchar <hi>Act.</hi> 16.30.31.32. Fe aeth i'r gwelu yn ei bechodau ag allaſau ddihuno yn uffern ond grâs ai ragflaenodd pan oedd ef yn tynnu ei gleddyf, ag y mae Duw trwy offerŷn gogoneddus yn gwei<g ref="char:EOLhyphen"/>ddi na wna it dy hun ddim niwed, mae iti le i obeithio ag ynteu mewn dychrin a Lefodd, beth a wnafi? yr enaid a ddychrynogerbron y'r holl alluog Dduw a waeddyff nid yn unig beth a gafi ond
+<pb n="19" facs="tcp:174186:18"/>beth a wnafi: <hi>crêd,</hi> medd <hi>Paul, crêd yn y'r Arglwydd Jeſu;</hi> ag er amlygu ei ewyllŷſgarwch i roddi ufuddod i'r Ar<g ref="char:EOLhyphen"/>glwydd Jeſu ag i'w derbŷn ar ammodau 'r Efengil bedyddiwyd ef 'r awr honno o'r nos <hi>adnod</hi> 33. ag os Marciwch <hi>adnod,</hi> 34. ei eiddo ef ôll a gredaſſant ag a <hi>fedyddiwyd.</hi>
+               </p>
+               <p n="7">7. Siampal arall ſydd i chwi am <hi>Lydia. Act.</hi> 16.14. Gwraig dduwiol, gwraig erfyngar, Duw agorodd ei chalon i ddal a'r y gair a lefarwŷd gan <hi>Paul</hi> a chan ei bod ar lan yr afon bedyddiwyd hi: pan fo'r galon ynghaead, mor belled yn ol yw eneidiau i ufuddhâu Criſt; un tynniad gan Griſt a wnaiff ir enaid redeg <hi>Can<g ref="char:EOLhyphen"/>iddau</hi> 1.4. Yr Arglwydd agorodd ei<g ref="char:EOLhyphen"/>chalon <hi>a hi a fedyddiwyd.</hi>
+               </p>
+               <p n="8">8. Siampal ſydd yn <hi>Act.</hi> 18.8. <hi>Criſ<g ref="char:EOLhyphen"/>pus</hi> pennaeth y <hi>ſynagog</hi> a gredodd yn y'r Arglwydd ynghyd ai holl deulu; a Lla<g ref="char:EOLhyphen"/>wer o'r <hi>Corinthiaid</hi> pan glywſant a gre<g ref="char:EOLhyphen"/>daſſant ag a fedyddiwyd; <hi>Criſpus</hi> y gre<g ref="char:EOLhyphen"/>dodd, ei deulu a gredodd, mae'r cwbl vn rhedeg ar gredu, ag wedin hwy a fedyddi<g ref="char:EOLhyphen"/>wyd. fel hŷn y cewch batrwn, a gorch<g ref="char:EOLhyphen"/>ymmyn, os gorchymmŷn a fiampal ſydd rymmus; dymma 'r ddau.</p>
+            </div>
+            <div type="chapter">
+               <pb n="20" facs="tcp:174186:19"/>
+               <head>BENNOD. IIII. <hi>Bedydd ŷw trochi neu gyddio tan y dwfr.</hi>
+               </head>
+               <p n="1">1. Y Gair groeg <hi>Baptizo, iblwnſio i danu droſto,</hi> fel hŷn plwnſiwyd Criſt yn y dwfr, <hi>Mat.</hi> 16. fel hŷn y plwnſiwyd neu y gorchguddiwyd ef yn ei Gy<g ref="char:EOLhyphen"/>ſtudd, <hi>Luc.</hi> 12.50.</p>
+               <p n="2">2. Y <hi>Dwtch</hi> gyfieuthiad a ddarllenir <hi>Math.</hi> 3. <hi>Yn y dyddiau hynnŷ y daeth</hi> Joan y <hi>plwnſiwr,</hi> Joan 3.23. <hi>yr oedd</hi> Joan <hi>yn plwnſio yn Ainon Lle'r oedd Llawer o ddwfr,</hi> beth oed raid wrth lawer o ddwfr onid i drochi.</p>
+               <p n="3">3. Hwy fedyddiaſant mewn afon<g ref="char:EOLunhyphen"/>ydd. <hi>Mat.</hi> 3.6. <hi>Hwy ddaethant at</hi> Joan <hi>a be<g ref="char:EOLhyphen"/>dyddiwyd hwy yn afony'r Jorddonen.</hi> Joan. 3.23. Joan <hi>oadd yn bedyddio yn</hi> Ainon <hi>Lle'r oedd Llawer o ddwfr;</hi> pa raid oedd bod mewn afon ag Lle 'r oedd Lawer o ddwfr: oni waſanaethau ychydig mewn Cawg i dy wallt ar yr wyneb.</p>
+               <p n="4">4. Mae bedydd yn Arwyddocâu cla<g ref="char:EOLhyphen"/>ddedigaeth Criſt Rhuf. 6.3. <hi>Claddwyd ni gan bynnŷ gydag ef trwy fedydd Col.</hi> 2.12. <hi>wedi ych cŷd-gladdu ag ef yn y bedydd</hi> y nawr ni chyfrifwn hwnnw wedi gladdu ſydd ag ychydig o bridd wedi danellu
+<pb n="21" facs="tcp:174186:19"/>ar ei wyneb: ond y mae gwedi gladdu pan guddier ef: fel hŷn ich claddur yn y bedydd.</p>
+               <p n="5">5. Dioddefiadau Criſt a alwyr vn fedydd. <hi>Luc.</hi> 12 50. <hi>Mae gennyf fedydd i'm bedyddio ag ef: ag mor gyfyng yw arnaf hyd oni orffenner;</hi> pan ddioddefodd Criſt fe drochwyd mewn poenau: a ddeſcyn<g ref="char:EOLhyphen"/>nodd ei ddiodefiadau ar ei ben neu ar ei dalcen yn unig: na ddo, na ddo, nid oedd un rhan yn rhydd; yr oedd oi ben hyd ei draed mewn poenau, ei ben gwedi goranu a drain blaenllyd: eu ddwylaw a'i draed gwedi hoelio wrth y groes; gwedi eſtŷn allan fellŷ ar y groes ag y gallau un rifo ei holl eſcurn <hi>Pſ.</hi> 22.17. nid oedd ûn rhan yn rhydd; dyn a bech<g ref="char:EOLhyphen"/>odd, ei gorph ei enaid ai yſpryd, Griſt a fedyddiwyd mewn poenau, a ddroch<g ref="char:EOLhyphen"/>wyd mewn triſtwch nid oedd ûn-rhan yn rhŷdd: hŷn mae ef yn galw ei fed<g ref="char:EOLhyphen"/>ydd; fel hŷn y mae un a fedyddier yn cael eu drochi tan y dwfr i ddangos<g ref="char:EOLhyphen"/>fel y trochwyd Criſt, mewn triſtwch er ein mwyn ni.</p>
+               <p n="6">6. Bedydd ŷw gwiſco Criſt am<g ref="char:EOLunhyphen"/>danom <hi>Rhuf.</hi> 13.14. <hi>Canys cynifer o<g ref="char:EOLunhyphen"/>honoch ag a fedyddiwyd i Criſt a wiſcaſſoch Griſt,</hi> felly <hi>Gal.</hi> 3.27. Ag fel y mae gwâs yn gwiſco trwſiad ei arglwydd yr hwn drwſiad
+<pb n="22" facs="tcp:174186:20"/>ſydd yn ei amlygu ef i fôd yn wâs i'r cyfriw Arglwydd, fel hŷn mewn bedydd yr ym ni yn gwiſco am<g ref="char:EOLunhyphen"/>danom drwſiad yr Arglwydd, mae è yn dilladu o'r pen ir draed, fellu ni trwy 'r bedydd a wiſcwn Griſt.</p>
+               <p n="7">7. <hi>Gwedi bedyddio Criſt fe ddaeth allan o'r dwfr, Mat.</hi> 3.16. A'i ychydig ddwfr, wedi danellu ar ei wyneb yn unig oedd hynny? wrth hynny ni fuaſſau yn y dwfr, gan hynny gwedi ei fedyddio fe ddaeth allan o'r dwfr, <hi>Acts.</hi> 8.38. <hi>A hwy a ae<g ref="char:EOLhyphen"/>thant ill dau i'r dwfr (ag yno yn y dwfr) fe ai bedyddiodd ef. A phan ddarfu ei fedy<g ref="char:EOLhyphen"/>ddio fe ddaeth i fynu allan o'r dwfr.</hi>
+               </p>
+               <p n="8">8. Yr Arch oedd gyfflybiaeth yn dala allan fedydd, 1. <hi>Pedr.</hi> 3.21. Yr Arch yn ddiau ar yr hon y glawiodd hi ddei<g ref="char:EOLhyphen"/>gen dydd a deigen nôs oedd gwedi gwlychu yn ddigonol droſti i gid; A hi dan <hi>y dwfr dan gymmulau,</hi> o ddwfr.</p>
+               <p n="9">9. <hi>Yſrael</hi> vn y môr-côch, 1. <hi>Cor.</hi> 10.1.2. Pan oeddŷnt yn y môr a than y cwm<g ref="char:EOLhyphen"/>mwl fe ddywedir iddynt gael e'u bedy d<g ref="char:EOLhyphen"/>dio dan y cwmmwl fellu 'r neb a fedydd<g ref="char:EOLhyphen"/>ier ydynt dan y dwfr; fel hŷn y gwelwch y lle bedyddiwyd hwy ynddo oedd afon; y gwaith oedd myned i wared i'r dwfr, yno yn y dwfr fe bedyddiwyd hwy: hyn oedd lle 'r oedd llawer o ddwfr, y
+<pb n="23" facs="tcp:174186:20"/>diben oedd i ddala allan gladdedigaeth Criſt; nawr oni bydd claddedigaeth dan y dwfr ddala allan gladdedigaeth Criſt y mae mawr ddiben 'r ordinhâad yn ei<g ref="char:EOLhyphen"/>ſiau; eithr claddwyd ni trwy 'r bed<g ref="char:EOLhyphen"/>ydd.</p>
+               <p>Gof. <hi>Eithr paham na waſanaeuthau ta<g ref="char:EOLhyphen"/>nelliad y dwfr yn gyſtal a gorchguddio dan y dwfr'a oes rhinwedd ragorach mewn llawer o ddwfr i olchi ymmaith bechod nag y ſydd mewn ychydig o ddwfr?</hi>
+               </p>
+               <p>
+                  <hi>Atteb.</hi> Tanelliad ni waſanaeutha yn gyſtal a throchi tan y dwfr.</p>
+               <p n="1">1. O<g ref="char:EOLunhyphen"/>herwydd bod Duw yn Dduw euddigis, ag yn craffu ar bethau bychain mewn addoliad; y mae yn debig i <hi>Nadab</hi> ac <hi>Abihu</hi> feddwl os hwy a ofodau dân yn y Thuffer y gallau hynny waſanaethu, er nad oedd ef y tân oddiar 'r allor; onid Duw ai galwyff yn dân dieithr, ag am hynnŷ mae ef yn eu Lloſci hwy a thân dieuthr, <hi>Levit.</hi> 10.2.3. ag y mae <hi>Moſes</hi> yn chwanegu <hi>adnod</hi> 3. <hi>dymma 'r hŷn â lefarodd 'r Arglwydd gan ddywedŷd mi â ſancteiddir yn y Rhai. ôll a neſſâant attof a cher<g ref="char:EOLunhyphen"/>bron yr holl bobl i'm gogoneddir.</hi> Duw a archodd i <hi>Moſes</hi> ddywedŷd wrth y graig eithr <hi>Moſes</hi> a darawodd y graig ag o<g ref="char:EOLunhyphen"/>herwydd hynnŷ yr oedd yn rhaid iddo ef farw cyn mynd i <hi>Ganâan</hi> Num. 20.11.12.</p>
+               <p n="2">
+                  <pb n="24" facs="tcp:174186:21"/>2. Ni waſanaetha tanelliad o<g ref="char:EOLunhyphen"/>herwydd wrth hynnŷ yr ydys yn colli diben yr or<g ref="char:EOLhyphen"/>dinhâad yr hon ſydd i ddangos marwo<g ref="char:EOLhyphen"/>laeth, Claddedigaeth, a chyfodiad Criſt <hi>Rhuf.</hi> 6.4. <hi>Claddwyd ni gan hynnŷ gyd ag ef trwy fedydd i farwolaeth fel megis ac y cyfodwyd,</hi> &amp;c.</p>
+               <p n="3">3. Ni waſanaetha tanelliad o<g ref="char:EOLunhyphen"/>herwydd mae nid hynnŷ a ddarparodd Duw: fe dybaſſau <hi>Naman</hi> y gwanglwyfus fòd dy<g ref="char:EOLhyphen"/>frodd <hi>Damaſcus</hi> a'r ûn rhinwed (neu yn well) na dyfrodd <hi>Jſrael,</hi> 2. <hi>Brenhi,</hi> 5.12. <hi>Oni allaf ymmolchi ynddŷnt hwy ag ym<g ref="char:EOLhyphen"/>lanhâu,</hi> Duw a orchymynnodd iddo ym<g ref="char:EOLhyphen"/>drochi yn y'r <hi>Jorddonen,</hi> nid am fod mwy o rinwedd yn y dwfr hynny ond Duw a orchmynnodd, iddo ymdrochi yn y'r <hi>Jorddonen:</hi> ag efe a ymdrochodd ag a lanhâwyd: ymdrochiad yw gorchymŷn Duw.</p>
+               <p n="4">4. Ni waſanaetha tânelliad am nad yw è yn ol y dull, Chriſt a aeth i wared i'r dwfr: <hi>Philip,</hi> a'r <hi>Eunuch,</hi> a aethant i wared i'r dwfr, <hi>Act.</hi> 3.38. <hi>Exod,</hi> 25.40. <hi>Ond gwybydd dy fôd yn gwneuthur Pôb peth yn ôl y portreaid.</hi>
+               </p>
+               <p n="5">5. Ni waſanaetha tanelliad; am fod yn rhaid i ni gadw'r ordinhâdau megis y traddodwyd hwy i ni, 1. <hi>Cor.</hi> 11.2. Y nawr bedydd a draddodwyd i ni yn y
+<pb n="25" facs="tcp:174186:21"/>dull cyntaf trwy drochiad: ag nid trwy dannelliad, hwy aethant i wared i'r dwfr.</p>
+               <p n="6">6. Ni waſanaetha tannelliad am ei fôd yn rhyfig mawr i newid ordinhâdau Duw, onid ŷw vn ddigon doeth i ordei<g ref="char:EOLhyphen"/>nio ei addoliad ei hun pa fôdd y cyflaw<g ref="char:EOLhyphen"/>ner ef <hi>Jſa,</hi> 24.1. <hi>Y ddaiar hefyd a ba<g ref="char:EOLhyphen"/>logwyd canys newidiaſant fy neddfau.</hi>
+               </p>
+               <p n="7">7. Ni waſanaetha tannelliad am nad yw tannelliad yn fedydd, nid yw ef y'r peth a ddarparwyd gan Dduw, bedydd yw <hi>trochiad</hi> new <hi>blwnſiâd.</hi> Tannelliad nid yw fedydd am hynnŷ ni waſanaetha tan<g ref="char:EOLhyphen"/>nelliad, <hi>Luc.</hi> 7.29.30. Cyngor Duw yw <hi>bedydd</hi> neu <hi>drochiad.</hi>
+               </p>
+            </div>
+            <div type="chapter">
+               <head>BENNOD. V. <hi>Yn tyſtio bedydd â dwfr byd ail ddyfodiad Jeſu Griſt.</hi>
+               </head>
+               <p>FEL y dichon hŷn amlygu fôd be<g ref="char:EOLhyphen"/>dydd â dwfr i barháu ag yw arfer y nawr gan y ſawl ſŷ'n credu, Cymerwch y whech yſtyriaethau hyn.</p>
+               <p n="1">1. Yſtyriwch fôd bedydd â dwfr wedi orchymmyn ûnwaith, ag heb 1 om<g ref="char:EOLhyphen"/>medd erioed etto; ag nid oes ûn awdyr<g ref="char:EOLhyphen"/>dod a ddichon alw yn ôl orchymmyn
+<pb n="26" facs="tcp:174186:22"/>Criſt, ond awdyrdod Criſt, trwy ba un y rhoddwyd ef allan <hi>Jud, adnod</hi> 3. <hi>ymdrechwch ymhlaid y ffydd a roddwyd un<g ref="char:EOLhyphen"/>waith ir ſainct.</hi>
+               </p>
+               <p n="2">2. Yſtyriwch fôd bedydd â dwfr gwe<g ref="char:EOLhyphen"/>di ei arferyd or blaen, a gwedi adgu<g ref="char:EOLhyphen"/>fodiad Jeſu Griſt; i fedydd â dwfr, gael ei arferyd yn ôl adgufodiad Criſt darllen, <hi>Act.</hi> 8.38. <hi>hwy aethant ill dau i wared i'r dwfr yn gyſtal</hi> Phillip <hi>a'r</hi> eunuch <hi>ag yna fe ai bedyddiodd ef. Act.</hi> 10.47. <hi>Aall nêb Lud<g ref="char:EOLhyphen"/>dias dwfr fel na fedyddier y rhai a dderbyn<g ref="char:EOLhyphen"/>niaſſant yr yſpryd glân fel ninau yna fe orchymynodd eu bedyddio hwy.</hi> Y'r oedd ymma ddwfr ag yn orchymynedig gan Apoſtol a ddanfonwyd gan Griſt, <hi>Act.</hi> 16.13.14. Yr oedd <hi>Lydia</hi> ar lan afon ymmha afon y bedyddiwyd hi.</p>
+               <p n="3">3. Yſtyriwch fod bedydd â dwf<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wedi orchymmŷn ar ôl adgyfodiad Criſt <hi>Mat.</hi> 28.19. <hi>Ewch dyſcwch y'r holl gen<g ref="char:EOLhyphen"/>hedloedd, gan eu bedyddio hwy,</hi> pa darluaſ<g ref="char:EOLhyphen"/>ſau fedydd â dwfr gida marwolaeth Criſt, ni buaſſyd yn ei orchymmyn ag yn ei arfer ar ôl ei adgyfodiad ef.</p>
+               <p n="4">4. Yſtyriwch fôd diben y'r ordinhâad yn parhau megis yn ſupper y'r Arglw<g ref="char:EOLhyphen"/>ydd, ei diben hi ŷw dangos allan marw<g ref="char:EOLhyphen"/>olaeth y'r Arglwydd oni ddelo, ag i wn<g ref="char:EOLhyphen"/>euthur hŷn er côf am Criſt, cyhyd ag y
+<pb n="27" facs="tcp:174186:22"/>boni i adgofio marwolaeth Criſt mae è iw wneuthur mewn coffadwrieth o Criſt hyd ei ail ddyfodiad: y'r un Ffynyd mae 'r bedydd i ddangos marwolaeth, clad<g ref="char:EOLhyphen"/>dedigaeth, ag adgyfodiad Criſt. <hi>Ruf.</hi> 6.3.4.5. Gan fod y diben yn parhâu hyd ei ail ddyfodiad ef.</p>
+               <p n="5">5. Yſtyriwch fel y cad ei adferŷd gan yr holl griſtnogion yn yr holl oeſoedd oddiar pan gadawodd Jeſu Griſt <hi>ei or<g ref="char:EOLhyphen"/>chymmyn gida ei ſainct.</hi>
+               </p>
+               <p n="6">6. Yſtyriwch oni ddichon 'r un rhe<g ref="char:EOLhyphen"/>ſſwm ag ſydd yn bwrw i lawr fedydd â dwfr; os caniateir ef, fwrw i lawr 'r hol ordinhâdau: canys os caniadwch pan ddelo 'r yſpryd fod y bedydd yn darfod; oni ellwch yn gyſtal ddywedyd: pan ddel yr yſpryd, fôd pregethiad gwedi darfod a gweddi gwedi darfod; hŷn ſydd o<g ref="char:EOLunhyphen"/>herwydd calon Lygredig dyn, medd Criſt, <hi>dyſcwch iddynt gadw pôb peth ar a orchmynnais i chwi Mat.</hi> 28.19.20. <hi>ac yr ydwyffi gida chwi bôd amſer hyd ddiwedd y bŷd.</hi>
+               </p>
+            </div>
+            <div type="chapter">
+               <pb n="28" facs="tcp:174186:23"/>
+               <head>BENNOD. VI. Nad oes un meſſur o râs neu o'r yſpryd yn rheſſwm dig<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nol i gadw nêb oddiwrth fedydd â dwfr.</head>
+               <p>NAd oes un meſſur o râs neu o'r yſpryd yn achos digonol i gadw oddiwrth fedydd a ddengis yn eglir.</p>
+               <p n="1">1. Os yſtyriwch fôd bedydd o'r nef fel y gwelwch <hi>Mat.</hi> 21.25. Nawr beth a ddyleu gadw oddiwrth orchymmyn nefol.</p>
+               <p n="2">2. Yſtyriwch yr oedd gan yr Arglw<g ref="char:EOLhyphen"/>ydd Jeſu bob grâs a'r ſypryd yn anfeſurol <hi>Joan</hi> 3.34. ag er hynnŷ bedyddiwyd ef yn afon y'r <hi>Jorddonen</hi> fel y gellwch weled <hi>Mat.</hi> 3.13. onid yw Chriſt yn ſiampal dda ir credadŷn iw ddilin.</p>
+               <p n="3">3. Yſtyriwch pale mae Duw gwedi gwardd y rheini y ſydd wrth ychydig o râs neu ychydig o'r yſpryd: nage, yn y gwrthwyneb oni Addawodd Duw ei yſpryd fel y cadwent ei ddeddfau ag y gwnelont hwynt yn, <hi>Eze.</hi> 11.19.20.</p>
+               <p n="4">4. Yſtyriwch fôd yr Apoſtol y gw<g ref="char:EOLhyphen"/>neuthur derbynniad 'r yſpryd yn ddef<g ref="char:EOLhyphen"/>nydd o annogaeth i fedydd, <hi>Act.</hi> 10.47. <hi>â all neb Luddias dwfr fel na fedyddier y rhai
+<pb n="29" facs="tcp:174186:23"/>a dderbynniaſſant yr Yſpryd glân fel ninnau.</hi> y nawr os cofiwch, fe fedyddiwyd y rhai hyn fellu a'r yſpryd fel y Llefara<g ref="char:EOLhyphen"/>aſſant a thafodau ag y prophwydaſſant; gwaith dieithŷr i brophwydo a Llefaru a thafodau: y cyfriw feſſur o'r yſpryd nid yw yn ein dyddiau ni; er hynnŷ gorch<g ref="char:EOLhyphen"/>mynnodd i bedyddio hwy <hi>adnod.</hi> 48.</p>
+            </div>
+            <div type="chapter">
+               <head>BENNOD VII. Bedydd y credadwy yn ordinhâad fawr.</head>
+               <p>MOr fawr ŷw 'r ordinhâad o fe<g ref="char:EOLhyphen"/>dydd y credadwy a ymddengis os yſtyriwch y'r wŷth yſtyriaethau hŷn.</p>
+               <p n="1">1. Yſtyriwch fôd bedydd yn ordin<g ref="char:EOLhyphen"/>hâad fydd ar patrwn mawr iddi: Awdwr yn Jechydwriaeth ni ai arferodd hi ei<g ref="char:EOLhyphen"/>hun; fel y gwelwch <hi>Mat.</hi> 3.13. <hi>Yna daeth yr Jeſu i gael ei fedyddio; os gwaſna<g ref="char:EOLhyphen"/>etha neb <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> medd</hi> Criſt <hi>canlyned fi; a lle y'r wyf fi yno y bydd fy ngwenidog hefyd. Joun,</hi> 12.26. Criſt yw'r ſiampal mawr.</p>
+               <p n="2">2. Yſtyriwch yr enw mawr yn y'r hwn y mae 'r bedydd yn cael ei weinido<g ref="char:EOLhyphen"/>gaethu, <hi>Mat.</hi> 28.19.20. <hi>bedyddiwch hwy yn enw 'r tâd a'r mâb ar Jſpryd glân.</hi> ni ellir cymeryd 'r enw ymma yn yſgafn, enw mawr ydŷw.</p>
+               <p n="3">
+                  <pb n="30" facs="tcp:174186:24"/>3. Yſtyriwch y ſêl fawr oedd ir bedydd, pa fôd y ſeâlwyd 'r Arglwydd Jeſu pan y bedyddiwyd ef, <hi>Mat.</hi> 3.17. <hi>Y nefoedd a agorwyd a Llêf a glubwyd yn dywedyd hwn yw fy anwyl fâb yn y'r hwn i'm bodlonwyd;</hi> mae'r drindod yn cyfar<g ref="char:EOLhyphen"/>fod ymmedydd Criſt.</p>
+               <p n="4">4. Yſtyriwch mawr waith y bedydd, fe a elwyr yn gyfiawnder; Cyfiawnder fydd beth mawr mae Criſt yn i alw yn beth gweddus <hi>Mat.</hi> 3.15. <hi>felhŷn y gwedd i gyflawnini pôb cyfiawnder;</hi> mae è yn gyfla<g ref="char:EOLhyphen"/>wnder o bob cyfiawnder.</p>
+               <p n="5">5. Yſtyriwch fôd bedydd yn orchym<g ref="char:EOLhyphen"/>myn mawr: mae è yn ûn o orchmyn<g ref="char:EOLhyphen"/>nion diweddaf ein bendigedig Jachaw<g ref="char:EOLhyphen"/>dwr yn ôl ei adgyfodiad ychydig cyn ei eſcynniad fel yr ymddengis <hi>Mat</hi> 28.19.20. <hi>Ewch dyſcwch a bedyddiwch.</hi>
+               </p>
+               <p n="6">6. Yſtyriwch fod Addewidion mawr i fedydd <hi>Mat,</hi> 28.19.20. <hi>Ewch dyſcwch a bedyddiwch a mi a fyddaf gida chwi;</hi> dymma addewid o breſſenoldeb ogo<g ref="char:EOLhyphen"/>neddus Criſt; yna cewch addewid o'r yſpryd glân: <hi>ediferhewcha bedyddier chwi, à chwi a dderbynniwch 'r Yſpryd glân, Act.</hi> 2.38.</p>
+               <p>Yna cewch addewid neu ſiccrwydd o olchi ymmaith ych pechodau, <hi>Act.</hi> 22.16. <hi>Cyfod, a bedyddier di a golch ymmaith dy bechodau.</hi>
+               </p>
+               <p>
+                  <pb n="31" facs="tcp:174186:24"/>Gwedi hynny cewch addewid o Jechad<g ref="char:EOLhyphen"/>wriaeth yn gyſſulltedig a bedydd <hi>Marc.</hi> 16.16. <hi>Y neb gretto ag a fedyddier a fydd cadwedig;</hi> preſſenolded Criſt, y<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> yſpryd glân, maddeuant am bechod a <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>chad<g ref="char:EOLhyphen"/>wriaeth mae rhain eu gyd yn addewidion mawr.</p>
+               <p n="7">7. Yſtyriwch odidawgrwdd y bed<g ref="char:EOLhyphen"/>ydd: mae holl eiriau Duw yn bur eithr y bedydd a elwyr yn gyngor Duw. <hi>Luc.</hi> 7.29.30. <hi>Hwy a ddiyſtyraſſant gyngor Duw yn eu herbŷn eu hunain heb eu bedyddio ganddo;</hi> onid ŷw cyngor Duw yn beth mawr.</p>
+               <p n="8">8. Yſtyriwch er pan dderchafodd Criſt i'r nêf fe orchmynnodd y bedydd <hi>Act,</hi> 8.29. fe archodd yr yſpryd i <hi>Phillip</hi> neſſau at y cerbyd yr hŷn a ddengis yn eglir mae er mwyn pregethu Criſt a bedyddio 'r eunuch, a <hi>gwedi ei fedyddio fe aeth ar hŷd y fford yn Llawen;</hi> dymma ûn galwad or nêf. Gorchymmyn arall o'r nêf i fedyddio yn ddiau yn ôl dercha<g ref="char:EOLhyphen"/>fiad Criſt cewch yr Arglwydd Jeſu yn danfon <hi>Ananias</hi> at <hi>Paul, Act.</hi> 9.19. <hi>Ar Arglwydd a alwodd Ananias mewn gwe<g ref="char:EOLhyphen"/>ledigaeth ag ai danfonodd at Paul; â phan daneth fe ddywedodd, Act.</hi> 22.16. <hi>Ag yr awr hon beth yr wyt ti yn ei aros cyfod â bedyddier di a golch ymmaith dy bechodau.</hi>
+                  <pb n="32" facs="tcp:174186:25"/>hyn a ddywedodd <hi>Paul</hi> oedd geiriau <hi>Ananias;</hi> mae genych ymma alwad arall o'r nef i fedyddio. gwedi hynnŷ y cewch, <hi>Act.</hi> 10.4.5. Fe gafodd <hi>Cornelius</hi> alwad o'r nef i ddanfon am <hi>Petr</hi> 'r hwn a Lefare eiriau wrtho fel y bydde gad<g ref="char:EOLhyphen"/>wedig: cafodd <hi>Pedr</hi> alwad o'r nef i fyned at <hi>Cornelius</hi> adnod 19.20. <hi>Dôs gan hyn<g ref="char:EOLhyphen"/>ny heb amme dim,</hi> ag ymma mae <hi>Pedr</hi> yn cael galwad o'r nêf i Lefaru geiriau fel y bydde <hi>Cornelius</hi> gadwedig, a phan ddaeth at <hi>Gornelius</hi> chwi gewch <hi>adnod,</hi> 48. <hi>Fe orchmynnodd i bedyddio.</hi> hwy, fel hyn y gwelwch fôd bedydd yn orch<g ref="char:EOLhyphen"/>mynnedig yn ôl derchafu Criſt; hyn ei gid a ddengis fôd bedydd yn ordinhâad fawr.</p>
+            </div>
+            <div type="chapter">
+               <head>BENNOD. VIII. <hi>Attebion yr gwrthddadlau Cyffredin.</hi>
+               </head>
+               <p>MAe 'r fâth Lygredigaeth ynghalon dŷn: fel y mae ef yn gwneuthur gwrthddadlau yn erbyn y gwirioneddau eglura ymmendigedig air Duw; a pha ûn o wirioneddau Duw, ie oni chafodd Duw i hûn ei wrthddadlu yn ei erbyn: eithr gallaf, ddywedŷd am fedydd fel y
+<pb n="33" facs="tcp:174186:25"/>dywedodd ynte ûnwaith <hi>ni wnaed mor pe<g ref="char:EOLhyphen"/>thau bŷn mewn cornel.</hi> yr wi yn rhoi yn ynig y ſcrythurol wageliad hyn, <hi>caeàſant eu Llygaid rhag iddŷnt weled a chael eu troi ac i mi eu biachaû hwynt;</hi> gwagelwch gae ych Lygaid, ag yna bydd ſiccir gennyf y byddi ewyllyſgar yn nydd nerth Duw, eythr os mewn cydwybod yr ewyllyſſi gael bodlonrwydd, yſtyria yr atteb Tr gwrthddadlau a ganlynant</p>
+               <div n="1" type="contemplation">
+                  <head>Gwrthddadl. 1.</head>
+                  <p>Rhai amheua Lle dywedir, <hi>Mat.</hi> 28.19.20. <hi>Hyd ddiwedd y byd; hynny yw byd ddiwedd yr oes honno.</hi>
+                  </p>
+               </div>
+               <div n="1" type="discourse">
+                  <head>
+                     <hi>Atteb</hi> 1.</head>
+                  <p>Ir hyn yr wi yn atteb; Ni ddichon hyn fôd yſtŷr y text: yn gynta o<g ref="char:EOLunhyphen"/>herw<g ref="char:EOLhyphen"/>ydd i Criſt erchi i'r Apoſtolion ddyſcu iddŷnt <hi>gadw pob peth ar à orchmynnodd, Mat.</hi> 28.20. Nawr a feddyliwch fôd pob peth ag oedd i'r Apoſtolion yn i ddyſcu iddŷnt gadw, i barhâu hyd ddiwedd yr oes honno yn unig: mae Criſt yn gor<g ref="char:EOLhyphen"/>chymmyn iddynt edifarhâu, bod yn ſanctaidd, cymerud eu bedyddio, ag a ydym ni i edifathâu, credu a bod yn ſanctaidd, ddim pellach na diwedd y'r oes honno: yn ail mae Criſt yn addo ei breſſenoldeb hyd ddiwed y bŷd, <hi>Mat.</hi> 28.20. <hi>Mi a fydduf gida chwi hyd ddiwedd
+<pb n="34" facs="tcp:174186:26"/>y bŷd</hi> nawr â addawodd Criſt ei breſſen<g ref="char:EOLhyphen"/>noldeb onid hyd ddiwedd yr oes honno: hŷna fyddau athrawiaeth ofnadwy, <hi>Joſh.</hi> 5. <hi>Fe a ddywedodd nith adawaf ag nith wrthodaf chwaith;</hi> fel y mae addewid ei breſſenoldeb i barhâu trwy'r hôlloeſoedd fel y gellir cymeryd y gair: <hi>mi a fyddaf gida chwi yn oes oeſoedd, neu hyd ddiwedd y bŷd,</hi> gan hynny <hi>cedwch bob peth hyd ddi<g ref="char:EOLhyphen"/>wedd y byd.</hi>
+                  </p>
+               </div>
+               <div n="2" type="contemplation">
+                  <head>Gwrthddadl. 2.</head>
+                  <p n="2">2. <hi>Eith'r bedydd Joan oedd y bedydd<g ref="char:EOLhyphen"/>dwfrllud.</hi>
+                  </p>
+               </div>
+               <div type="discourse">
+                  <head>Atteb.</head>
+                  <p>A oedd bedydd <hi>Joan</hi> o'r nef neu o ddynion? Y'r oedd <hi>bedydd</hi> Joan <hi>o'r nef, Mat.</hi> 21.25. Ymmellach, Eithr <hi>Joan</hi> oedd i baratoi fford Criſt, <hi>Luc.</hi> 1.16. <hi>A thy di ei o flaen wynob yr Arglwydd i ba<g ref="char:EOLhyphen"/>ratoi ei ffordd,</hi> felly ni wnaeth <hi>Joan</hi> o<g ref="char:EOLhyphen"/>nid paratoi fford Criſt: hŷn gan hynny oedd ffordd Criſt nid fford <hi>Joun,</hi> Eithr ymmellach oni orchmynnodd Criſt, ag oni arferodd 'r eglwyſi fedŷdd a'r ol marwolaeth <hi>Joan,</hi> ag adgyfodiad Criſt, oni ddywedodd Criſt, <hi>ewch dyſcwch a bedyddiwch;</hi> ag a ddywedi di <hi>hwn ŷw bedydd</hi> Joan.</p>
+               </div>
+               <div n="3" type="contemplation">
+                  <head>Gwrthddadl. 3.</head>
+                  <p>3 <hi>Eithr ewwaediad a dienwaediad nid ŷw ddim onid creadir newŷd.</hi>
+                  </p>
+               </div>
+               <div type="discourse">
+                  <pb n="35" facs="tcp:174186:26"/>
+                  <head>Ir wi yn Atteb.</head>
+                  <p>Y'r oedd enwaediad unwaith yn ryw beth pan fynne yr Arglwdd lâdd <hi>Moſes</hi> O<g ref="char:EOLunhyphen"/>herwydd yr enwediad fel yn, <hi>Exo.</hi> 4.19. A phan ddywedodd, yr Arglwydd <hi>mae pwy bynnag oedd heb enwaedu arno a dorrid ymmaith o blith y bobl, Gen.</hi> 17.14. Y nawr tan yr efengil nid yw ddim am i fod gwedi ei ddeleu, <hi>Gal.</hi> 5.1. <hi>Os enwae<g ref="char:EOLhyphen"/>dir chwi; ni leſhâ</hi> Criſt ddim i chwi: eithr a ddywedi di fôd cyngor Duw yn ddim; bedydd Cyngor Duw yduw, <hi>Luc.</hi> 7.29. Ag a ydyw hŷn ddim; bedydd gorchymŷn yr Arglwydd Jeſu ydyw <hi>Mat.</hi> 28.16. Ag a ydyw ei orchymŷn ef ddim.</p>
+               </div>
+               <div n="4" type="contemplation">
+                  <head>Gwrthddadl. 4.</head>
+                  <p n="4">4. <hi>Fe medyddiwyd âr yſpryd yr hwn yw'r ſylwedd, nid yw'r bedydd dwfrllyd ond Cyſgod.</hi>
+                  </p>
+               </div>
+               <div type="discourse">
+                  <head>Ir wi yn Atteb.</head>
+                  <p>Di elli yn gyſtal ddywedyd felly am yr hôll ordinhâdau eraill: nid ydŷnt ond cuſcodau. nid yw'r ſwpper ond cuſ<g ref="char:EOLhyphen"/>cod; gweddi, gwrandawiad a phregeth<g ref="char:EOLhyphen"/>iad, nid ydŷnt ond cyſcodau, ag wedin i bale y rhedi din; gwedi' ymmhellach nid yw 'r gofynniad beth na ei fôd yn gyſ<g ref="char:EOLhyphen"/>god; â ydyw ynorchymnyn, nag am<g ref="char:EOLhyphen"/>heua awdyrdod Criſt rhag iddo ddigio:
+<pb n="36" facs="tcp:174186:27"/>eythr ymmellach, galw fedydd â dwfr yn gyſgod etto yſtyria i Griſt ymmoſt<g ref="char:EOLhyphen"/>wng iddo; a phwy ydwyti, a fyddidi yn ddoethach na Chriſt: ag ymmellach, <hi>Act.</hi> 10.47. <hi>hwy a fedyddiwyd i'r yſpryd ag a Lefarâſſant a thafodau,</hi> ag er hynnŷ a fedyddiwyd mewn dwfr: <hi>Cofia 'r neb ſŷdd ffyddlon yn ychydig ſŷdd ffyddlon mewn Llawer.</hi>
+                  </p>
+               </div>
+               <div n="5" type="contemplation">
+                  <head>Gwrthddadl. 5.</head>
+                  <p n="5">5.<hi> Oni ddaeth bedydd yn lle enwaediad? </hi>
+                  </p>
+               </div>
+               <div type="discourse">
+                  <head>Yr wi yn Atteb.</head>
+                  <p>Na ddaeth yn ſiccir: Canis nid ŷw gair Duw am y fâth beth yn un lle, ag ni ddylit ti fôd yn ddoeth, Uwchlaw yr hŷn a ſcrifenwyd, 1. <hi>Cor.</hi> 4.6. Ag hefyd yſtyria enwaediad oedd yn perthŷn yn unig ir gwrwod eithr, <hi>Act.</hi> 8.12. <hi>Pan gredaſſant hwy a fedyddiwyd yn wŷr ag yn wragedd.</hi>
+                  </p>
+               </div>
+               <div n="6" type="contemplation">
+                  <head>Gwrthddadl. 6.</head>
+                  <p n="6">6. <hi>Onid oes gwŷr dyſcedig Jawn am fe<g ref="char:EOLhyphen"/>dydd plant.</hi>
+                  </p>
+               </div>
+               <div type="discourse">
+                  <head>Yr wi yn Atteb.</head>
+                  <p>
+                     <hi>Luc.</hi> 7.29.30. Y phariſeaid a'r cyf<g ref="char:EOLhyphen"/>reithwŷr (gwŷr dyſcedig y'r amſerau) a ddiyſty raſſant gyngor Duw yn eu her<g ref="char:EOLhyphen"/>bŷn eu hunain heb eu bedyddio ganddo na ddywed fel y dywedaſſant hwy; pa rai o'r penaethiaid a gredodd ynddo
+<pb n="37" facs="tcp:174186:27"/>gwrando <hi>atteb</hi> Criſt <hi>Mat.</hi> 11.25. <hi>Jeſu at<g ref="char:EOLhyphen"/>tebodd yr wi yn diolch i tîo dâd Arglwydd nefodd a daiar i ti guddio 'r pethau hŷnoddi<g ref="char:EOLhyphen"/>wrth y doethion ar duallus ai datguddio i rai bychain;</hi> ag ymmellach, pa bae dyſceidiaeth yn blêad yn yr achos hŷn onid oes Lla<g ref="char:EOLhyphen"/>wer o <hi>Gardinals a Jeſuits yn wŷr dyſcedig.</hi>
+                  </p>
+               </div>
+               <div n="7" type="contemplation">
+                  <head>Gwrthddadl. 7.</head>
+                  <p>
+                     <hi>Eythr onid oes wŷr duwiol ragorol, athrawon Eglwyſi yn dala bedydd plant.</hi>
+                  </p>
+               </div>
+               <div type="discourse">
+                  <head>Yr wi yn Atteb.</head>
+                  <p>Nid ydych i ganlyn Apoſtol ymmellach nag y canlyno ef Griſt, 1. <hi>Cor.</hi> 11.1. <hi>byddwch ddylynwyr i mi megis yr wyfinnaw Griſt.</hi> drachefn na ddygwch ſiamplau gwŷr da yn erbŷn gair amlwg, mae gen<g ref="char:EOLhyphen"/>nych air amlwg, <hi>Act.</hi> 8.12. <hi>Pan gredaſſant, hwy â fedyddiwyd yn wŷr ag yn wraged:</hi> yr oedd <hi>Elias</hi> yn wr da, fe alwodd am dân or nef Eithr ni ddylem ni wneuthir fellu, y'r oedd <hi>Jehoſapat</hi> yn frenin da: eithr yr ychel-feydd oedd heb i ſymmyd: na ddilynwch un ſiampal yn erbyn y gair, 1. <hi>Bren.</hi> 12.42. <hi>Na chanlyn liaws i wneuthr drwg, Exo.</hi> 23.2.</p>
+               </div>
+               <div n="8" type="contemplation">
+                  <head>Gwrthddadl. 8.</head>
+                  <p n="8">8. <hi>Eithr nid oes ûn gan yn erbyn bedyddie plant.</hi>
+                  </p>
+               </div>
+               <div type="discourse">
+                  <head>Yr wi yn Atteb.</head>
+                  <p>Llocwyd <hi>Nadab</hi> ag <hi>Abihu</hi> â thân am i<g ref="char:EOLhyphen"/>ddŷnt
+<pb n="38" facs="tcp:174186:28"/>wneuthur ypeth na orchmynodd yr Arglwydd, <hi>Levit.</hi> 10.2.3. drachefn os yſtyriwch wrth air; gair amlwg. Yna pale y cewch air. <hi>Na chei fedyddio clychaw.</hi> fel y darllenwch yn Llyfr y Merthyron iddŷnt wneuthur: pale mae gennych air yn dywêdŷd, <hi>ni chei di ddodi poiri, bufen, neu halen yn y bedydd</hi> fel, y gwna y <hi>Rhufein<g ref="char:EOLhyphen"/>wyr:</hi> Eithr mae yn rhaid i chwi wybod mae digon yn eibŷn bedydd plant yw nad yw yn orchmynedig.</p>
+               </div>
+               <div n="9" type="contemplation">
+                  <head>Gwrthddadl. 9.</head>
+                  <p n="9">9. <hi>Eithr oni fedyddiwyd teuluoedd yn gy<g ref="char:EOLhyphen"/>fan?</hi>
+                  </p>
+               </div>
+               <div type="discourse">
+                  <head>Yr wi yn Atteb.</head>
+                  <p>I ddywedŷr yn amlwg, <hi>hwy ôll a gre<g ref="char:EOLhyphen"/>daſſant, Act.</hi> 16.33. <hi>Ag efe a fedyddiwyd a'r eiddo ôll,</hi> ag <hi>adnod,</hi> 34. <hi>â buont Law<g ref="char:EOLhyphen"/>en gan gredu i dduw fe ai hôll deulu,</hi> Act. 18.8. <hi>Criſpus yr Arch ſynagogudd a gredodd yn yr Arglwydd ai bôll dŷ; a Llawer o'r Corinthiaid o gredaſſant ag a fedyddiwyd. Lydia a fedyddiwyd ai holl dŷ:</hi> nid oes ym<g ref="char:EOLhyphen"/>ma ddim ſôn am wr na phlant; beth byn<g ref="char:EOLhyphen"/>nag oedd hi a merch neu widw, yn unig galwir hwy yn frodur <hi>adnod;</hi> 40.</p>
+               </div>
+               <div n="10" type="contemplation">
+                  <head>Gwrthddadl. 10.</head>
+                  <p n="9">9. <hi>Yr oedd plant unwaith yn aelodau o'r Eg<g ref="char:EOLhyphen"/>lwys, ag ni amlygir eu torri hwy ymmaith.</hi>
+                  </p>
+               </div>
+               <div type="discourse">
+                  <pb n="39" facs="tcp:174186:28"/>
+                  <head>Yr wi yn Atteb.</head>
+                  <p>I dorri ymmaith y canghennau natu<g ref="char:EOLhyphen"/>riol trwy eu hangredinieth; ag os deuant i gredu fe ellir eu himpio hwy i mewn drachefn, eithr hyd hŷnnŷ mae nhwy gwedi eu torri ymmaith, <hi>Ruf.</hi> 11.20.21. drachefn y nawr yn yr efengil mae'r fwyell gwedi goſſod ar wreiddin y pren, a phob pren na dducco allan ffrwyth da y dorrir i lawr ag a daflir ir tân, <hi>Mat.</hi> 3.9.10. <hi>Gan hynnu na feddŷliwch chwi ddy<g ref="char:EOLhyphen"/>wedŷd fôd gennych Abraham neu gredadŷn yn dâd i chwi;</hi> hwn yw ſiccir air Duw: ag fel hŷn y gellwch weled wrthod y <hi>Sadu<g ref="char:EOLhyphen"/>ceaid</hi> pan dybient y gellynt ddywedŷd <hi>fôd Abraham yn dâd iddynt</hi> hwy, <hi>Mat.</hi> 3.7.8. Ag ymmellach y'r oedd plant yn aelo<g ref="char:EOLhyphen"/>dau o Eglwys gennedledig y'r Iddewon eithr pale y'r oeddŷnt erioed yn aelo<g ref="char:EOLhyphen"/>dau o Eglwys neilltuol tan y'r efengil, pan oedd plant yn aelodau, yna gweiſon a brynaſſyd ag arian oeddŷnt eu gŷd yn aelodau, <hi>Gen.</hi> 17.12. <hi>Yr hwn nid ŷw oth hâd di:</hi> Mae Duw y nawr tan yr efengil yn ceiſio yr cyfriw iw addoli ef, ag ai haddolo ef mewn yſpryd a gwirionedd <hi>Joan.</hi> 4.23. Ag ymmellach yr oedd y pryd hynnŷ y ganol-fur o wahaniaeth eithr y ganol-fur hon o wahaniaeth, y dorrwyd i lawr, <hi>Eph.</hi> 2.14. Ag y nawr
+<pb n="40" facs="tcp:174186:29"/>nid yw Duw dderbynwr wyneb eithr ymhob cenedl y ſawl ai hofno ef ag a weithredo gyfiawnder <hi>ſydd gŷmeradwy ganddo ef.</hi> Act. 10.35.</p>
+               </div>
+               <div n="11" type="contemplation">
+                  <head>Gwrthddadl. 11.</head>
+                  <p n="11">11. <hi>Eithr a ydyw rhagorfraint plant y credadwy yn Llai tan yr efengil nag yr oedd tan y ddeddf?</hi>
+                  </p>
+               </div>
+               <div type="discourse">
+                  <head>Atteb.</head>
+                  <p>Beth a feddyli wrth ragorfraint? A oedd hi yn rhagorfraint i fôd tan y ddeddf, neu a ydyw hi yn rhagorfraint i fôd y nawr tan yr Efengil: neu a wŷt ti yn meddwl wrth ragorfraint y cei di yr addewidion am y rhai mae 'r Apoſto<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> yn cyrbwyll i chwi am<g ref="char:EOLunhyphen"/>danynt, <hi>Ruf.</hi> 9.8 <hi>y rhai ag ſydd blant y cnawd nid ydynt blan<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> yr Addewyd:</hi> neu a ydwŷt yn meddw<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> wrth ragor fraint i fôd yn gyfrannog o'<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ordinhâad weledig o enwaediad; ag a ydyw hŷn y fâth ragorfraint y mae'r Apoſtol, <hi>Act.</hi> 15.10. yn ei alw yn Jau<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> na allau na nŷ ni, na'n tadau eu dwyn, a<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> dymma'r ragofraint yr ydwyt ti yn <gap reason="illegible: missing" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> fedwl?</p>
+               </div>
+               <div n="12" type="contemplation">
+                  <head>Gwrthddadl. 12.</head>
+                  <p n="12">12. <hi>Eithr yr oedd yr bâd yn y gyfammod Duw a wnaeth gyfammod ag Abraham ag aihâd.</hi>
+                  </p>
+               </div>
+               <div type="discourse">
+                  <pb n="41" facs="tcp:174186:29"/>
+                  <head>Atteb.</head>
+                  <p>Beth yr ydwyt ti yn i feddwl wrth gyfammod? a wyt ti yn meddwl y gy<g ref="char:EOLhyphen"/>fammod a wnaed ar fynydd <hi>Sinai:</hi> cy<g ref="char:EOLhyphen"/>fammod o weithredd: neu a wyt ti yn meddwl cyfammod o râs y mha un mae Duw yn addo bôd yn dduw iddŷnt hwy: ag a wneu di yr gyfammod hon o râs i fôd yn ammodol; ag a wyt ti yn barnu fôd <hi>Iſhmael, Saul, Ieroboam, fab Nebat,</hi> ag <hi>Abas,</hi> eu gŷd yn y gyfammod o râs, neu a ferni di iddŷnt golli eu hawl yn y gy<g ref="char:EOLhyphen"/>fammod o râs, ag fellŷ yn ddiau ei wneuthur yn gyfammod o weithredoedd: gan hŷnnŷ yſtyria, Duw a wnaeth <gap reason="illegible" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>mod ag <hi>Abraham</hi> ag ai hâd i roddi idd<g ref="char:EOLhyphen"/>ŷnt wlâd <hi>Canâan, Gen.</hi> 17.7.8. Eithr oblegid yr Addewid o fowyd ac Jechy<g ref="char:EOLhyphen"/>dwriaeth, hon a wnaed i <hi>Abraham</hi> ag iw hâd, <hi>Gal.</hi> 3.16. <hi>Nawr i Abraham ag iw hâd y gwnaed yr Addewidion, fe a ddywed<g ref="char:EOLhyphen"/>odd uid i hâdau megis am Lawer: ond megis am un ag <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>th hâd di yr hwn ŷw Criſt.</hi> Os credwch chwi 'r text hwn nid oes ond ychydig anhawſtra yn y Gwrthddadl, <hi>Ruf.</hi> 9.8. <hi>Plant yr addewid a gyfrifir yn hâd.</hi>
+                  </p>
+               </div>
+               <div n="13" type="contemplation">
+                  <head>Gwrthddadl. 13.</head>
+                  <p>
+                     <hi>Eithr yr oeddynt hwy ein belled yn y gy<g ref="char:EOLhyphen"/>fammod fel y rhoddes iddŷnt hawl yn yr or din<g ref="char:EOLhyphen"/>hâad.</hi>
+                  </p>
+               </div>
+               <div type="discourse">
+                  <pb n="42" facs="tcp:174186:30"/>
+                  <head>Atteb.</head>
+                  <p>Yr oedd enwaediad gwedu ei rwymo i <hi>Abraham</hi> ag iw hâd, ag iw weiſion; Eithr pa le yr oedd bedydd gwedi ei rwymo ar blant cnawdol y credadwy; yr oedd 'r offeiriadaeth gwedi rhwymo trwy gy<g ref="char:EOLhyphen"/>famod a'r Lwyth <hi>Levi</hi> ai hâd fel y gell<g ref="char:EOLhyphen"/>wch ddarllen, <hi>Joſh.</hi> 1.8.7. <hi>Num.</hi> 25.13. Ag a fynnwch chwi y nawr rwymo 'r weinidogaeth a'r bregethwŷr ai hâd cna<g ref="char:EOLhyphen"/>wdol: Eithr o barthed y pwnc o fed<g ref="char:EOLhyphen"/>ydd: onid oeddŷnt lawer a ddaethant i gael eu bedyddio ag <hi>Joan</hi> a ddywedo<g ref="char:EOLhyphen"/>edd <hi>na feddyliwch ddywedŷd fôd Abraham yn dâd i chwi, Mat.</hi> 3.9. Yn dangos yn eglir fôd eu hawl gnawdol gwedi thorri ymmaith trwy r' efengil; y nawr maer <hi>fwyell gwedi goſſod ar wreiddiwy pren pob pren na dducco allan ffrwyth da a dorrir i lawr ag a daflir ir tân,</hi> a chraffwch ym<g ref="char:EOLhyphen"/>mellach, yr oedd gan. Abraham air i warrantu yr enwaediad a'r eu hâd; eithr pa le y mae gair am fedyddio plant.</p>
+               </div>
+               <div n="14" type="contemplation">
+                  <head>Gwrthddadl. 14.</head>
+                  <p n="14">14. <hi>Fe ddywedodd Criſt gadewch i blant bychain ddyfod attaf fi canis eiddo y cyfriw rai ŷw teyrnas nefoedd.</hi>
+                  </p>
+               </div>
+               <div type="discourse">
+                  <head>Atteb.</head>
+                  <p>Mae'r text yn dywedŷd wrthych yn eglir ni ddygaſſid hwy ŷw bedyddio
+<pb n="43" facs="tcp:174186:30"/>Eithr fel y byddau i Criſt offod ei ddwy<g ref="char:EOLhyphen"/>lo arnŷnt a gweddio droſtŷnt, <hi>Mat.</hi> 19.13. <hi>Marc.</hi> 10.16. nid oes ymma ddim am fedydd.</p>
+               </div>
+               <div n="15" type="contemplation">
+                  <head>Gwrthddadl. 15.</head>
+                  <p n="15">15. <hi>Eithr fe ddywedir, Act.</hi> 2.39. <hi>Maer Addewid i chwi ag ich plant.</hi>
+                  </p>
+               </div>
+               <div type="discourse">
+                  <head>Atteb.</head>
+                  <p>Gwna gymmaint o gyfiawnder ith enaid a darllen y text i gŷd: a chwi ai cewch gwedu dywedŷd. <hi>yr addewi<g ref="char:EOLhyphen"/>dion-ſŷdd i chwi ac ich plant ac i bawb ag ſŷdd ymmhell, cynifer ag a alwo yr Arglwydd ein Duw ni atto:</hi> Ymma y gwelwch maer cyfriw ydŷnt ac a alwyr, nawr os dyw<g ref="char:EOLhyphen"/>edwch nad ŷw 'r gair <hi>galwad</hi> ymma yn perthŷn i'r plant <hi>eithr i'r rhai ſŷdd ym<g ref="char:EOLhyphen"/>mhell. Atteb.</hi> Mae yn angenreidiol iddo berthŷn i'r plant ai rhieni ag i bawb ym<g ref="char:EOLhyphen"/>mhell: o achos maer Addewid ydyw <hi>adnod.</hi> 16.17. hyn ydyw 'r peth a ddy<g ref="char:EOLhyphen"/>wedpwyd gan <hi>Joel y</hi> Prophwyd, <hi>mi a dwalltaf fy yſpryd a'r bob cnawd, ar eich mei<g ref="char:EOLhyphen"/>bion, ach merched, ag ar y gweddillon a alwo'r Arglwydd, adnod.</hi> 32. Nawr os ŷw addewid or yſpryd i plant er na ch<g ref="char:EOLhyphen"/>awſont eu galw yna naill mae'r addewid yn Ffaylu, à pheth ofnadwy yw hŷnny ŷw dibied: neu ynte mae hôll blant y credadwy yn gyfrannog o'r yſpryd gogo<g ref="char:EOLhyphen"/>neddus
+<pb n="44" facs="tcp:174186:31"/>hwn: Eithr mae beunyddiol brofiad yn dangos y gwrthwyneb; fôd llawer o blant y credadwy yn gnawdol heb yr yſpryd; ag yn cael i gyflawnu yn unig i'r cyfriw ag a alwo yr Arglwydd ein Duw.</p>
+               </div>
+               <div n="16" type="contemplation">
+                  <head>Gwrthddadl. 16.</head>
+                  <p>Eithr myfi a gefes fy medyddio yn fy Je<g ref="char:EOLhyphen"/>venctyd gan hynny pa raid i mi gael fy me<g ref="char:EOLhyphen"/>dyddio drachefn.</p>
+               </div>
+               <div type="discourse">
+                  <head>Atteb.</head>
+                  <p>Fel y dywed ûn am briodas nid y gwelu ſydd yn gwneuthur priodas canys felly y byddau godineb yn briodas, eithr cydtundeb cyfreithlon trwy gyfammod ſydd yn gwneuthur priodas; felly y dywe<g ref="char:EOLhyphen"/>daf am fedydd nid y dwfr a dwalltir ar yr wyneb ſydd yn gwneuthur bedydd eithr cyttundeb ewyllyſgr ag ymmoſt<g ref="char:EOLhyphen"/>yngiad i Criſt yn ôl y rheol ſydd yn gw<g ref="char:EOLhyphen"/>neuthur bedydd; nawr pan oeddit yn blentyn ni roddeſt ddim cydtundeb, ni wyddoſt ddim i ddywedyd am y fâth beth; onid trwy air ni wyddeſt pa brŷd y bu; nid oedd gennyt Ffŷdd <hi>yn</hi> y weith<g ref="char:EOLhyphen"/>red: <hi>a pheth bynnag nad yw o ffydd pechod ŷw,</hi> felly ni chefeſt etto dy fedyddio: ni gawn drachefn yn, <hi>Act.</hi> 19. Am fod diffig yn y bedydd: Hwy a fedyddiwyd drachefn; <hi>hwy a fedyddiwyd gan ddywedŷd
+<pb n="45" facs="tcp:174186:31"/>fôd yn rhaid iddŷnt gredu yn yr ûn ag oedd i ddyfod</hi> fel <hi>adnod</hi> 4. eithr Criſt oedd gwedi dyfod gan hynny hwy a fedyddiwyd drachefn <hi>adnod.</hi> 5. eithr yſtyria pwy ddiffygion oedd yn dy fedydd babanaidd di: yn gynta: nid oedd un rheol ith fe<g ref="char:EOLhyphen"/>dyddio di tra fuoſt yn faban; bryd hynny nid oeddit yn Jawn wrthrych, canis dy laſſit gredu a chymerŷd dy fedyddio y pryd y cafeſt tidanelliad yn unig, ag nid claddedigaeth mewn bedydd, fely cafodd Criſt ag y gorchmynnodd; Nawr a e<g ref="char:EOLhyphen"/>lwi di hwnnw yn fedydd ag oedd dra<g ref="char:EOLhyphen"/>ddodiad gwedi dderbŷn oddiwrth dy hên dadau; pan ddarfu i'r Arglwydd Jeſu golli ei waed gwerthfawr ith rydd<g ref="char:EOLhyphen"/>h<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u di oddiwrth <hi>draddodiad dy dadau gŷnt <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>. Petr</hi> 1.18.19.</p>
+               </div>
+               <div n="17" type="contemplation">
+                  <head>Gwrthddadl. 17.</head>
+                  <p n="17">17. <hi>Eithr mae Llaweroedd yn goſſod cym<g ref="char:EOLhyphen"/>maint o bwys a'r y bedydd, yr hŷn ſydd yn ein pellhâu ni o ddiwrtho.</hi>
+                  </p>
+               </div>
+               <div type="discourse">
+                  <head>Atteb.</head>
+                  <p>A oes mwy o bwys gwedi goſſod gan neb nag y ſydd gan Griſt yr hwn a ddy<g ref="char:EOLhyphen"/>wedodd iddŷnt ddiyſtyru cyngor Duw yn herbin eu hunain heb eu bedyddio, <hi>Luc.</hi> 7.20.30. Ag onid ydyw yn ddyled<g ref="char:EOLhyphen"/>ſwydd i ni <hi>ymdrechu ymblaid y ffydd a rod<g ref="char:EOLhyphen"/>dwyd unwaith i'r ſainct.</hi>
+                  </p>
+               </div>
+               <div n="18" type="contemplation">
+                  <pb n="46" facs="tcp:174186:32"/>
+                  <head>Gwrthddadl. 18.</head>
+                  <p n="18">18. <hi>Eithr plant y credadwy ydynt ſanctaidd gan hynny hwy a ddylent gael eu bedyddio.</hi>
+                  </p>
+               </div>
+               <div type="discourse">
+                  <head>Atteb.</head>
+                  <p>Fel y dywedir fod y plant yn ſancta<g ref="char:EOLhyphen"/>idd fellu y dywedir fôd y gwr angre<g ref="char:EOLhyphen"/>diniol yn ſanctaidd neu gwedi ſanctei<g ref="char:EOLhyphen"/>ddio trwy 'r wraig grediniol; mae 'r ſan<g ref="char:EOLhyphen"/>cteiddrwydd ymma yn gwbwl at dden<g ref="char:EOLhyphen"/>fŷdd y briodas Canŷs mae'r Apoſtol yn y Lle hynny, 1. <hi>Cor.</hi> 7. Yn dywedŷd, am briodas; a peth yddylau y rhai ſydd yn credu fyw gida y gwŷr angrediniol: neu i goſſod hwy heibio fel, 1. <hi>Cor.</hi> 7.13. Ag fellu yr ſancteiddrwydd a ddy<g ref="char:EOLhyphen"/>wedir am<g ref="char:EOLunhyphen"/>dano ymma ſydd yn gwbwl i'w hachos hwy: fe ddywedir, <hi>Zach.</hi> 14.20. <hi>A bydd ſancteiddrwydd ar gluchau 'r Meirch a bydd pob crochan yn nhŷ'r Arglw<g ref="char:EOLhyphen"/>ydd yn ſancteidd;</hi> yr awr hon a dybygwch chwi fôd hŷn yn warrant ddigonol i fe<g ref="char:EOLhyphen"/>dyddio clychau fel y darllenwch yn Llyfr y Merthyron iddŷnt wneuthur: eithr y mae ſancteiddrwydd i achos y creda<g ref="char:EOLhyphen"/>dŷn fel y mae pob creadur gwedi ei ſancteiddio trwy air Duw a gweddi; <hi>ag i'r glân mae pob peth yn lân;</hi> hynnŷ yw iw defnudd hwy fel hŷn y mae plant yn ſanctaidd a gwyr anghrediniol gwedi ſancteiddio iw defnydd hwy. Eithr os
+<pb n="47" facs="tcp:174186:32"/>ydych yn tybied fôd plant y crediniol yn etifeddu ſancteiddrwydd onid ŷw ych profiad yn dywedd wrthych yr gwrthwyneb: oni welwn ni wŷr da yn cael plant anuwiol a gwŷr drwg yn cael plant ſanctaidd, fellŷ mae'n hwy yn ſancteidd yn unig iw defnydd hwy, ni chawſant eu geni mewn aflendid.</p>
+               </div>
+               <div n="19" type="contemplation">
+                  <head>Gwrthddadl. 19.</head>
+                  <p n="19">19. <hi>Pan enwaedwyd gŷnt gwŷt oedrannŷs a enwaedwyd; eithr gwedi hŷnnŷ enwaedwyd a'r blant bychein; fellu yn y'r efengil pun ga<g ref="char:EOLhyphen"/>fodd bedŷdd y weinidogaeth gŷnta: bedy<g ref="char:EOLhyphen"/>ddiwyd gwŷr a gwragedd: eithr gwedi hyn<g ref="char:EOLhyphen"/>nŷ bedyddiwyd plant bychein.</hi>
+                  </p>
+               </div>
+               <div type="discourse">
+                  <head>Atteb.</head>
+                  <p>Pan orchmynnod Duw enwaediad gynta fe orchmynnodd fôd eu weinidog<g ref="char:EOLhyphen"/>aeth ef ir plant, <hi>Gen.</hi> 17.10. <hi>pob plentyn gwriw,</hi> eithr pan orchmynnodd Criſt fe<g ref="char:EOLhyphen"/>dydd fe orchmynnodd i dyſcu hwy ag id<g ref="char:EOLhyphen"/>dŷnt gredu a chaeleu bedyddio, ag ni rod<g ref="char:EOLhyphen"/>des erioed orchymmŷn i fedyddio plant, gan hŷnny yſtyriwch mae gennym ni farweddiad a gweithredoedd yr Apoſto<g ref="char:EOLhyphen"/>lion ar brif eglwyſi dros amriw flynyd<g ref="char:EOLhyphen"/>dau: ag heb un plentŷn yn cael ei fed<g ref="char:EOLhyphen"/>yddio. <hi>Paul</hi> a ddychwelwyd ryw amſer yn ôl derchafu Criſt, ag oedd 14. o fly<g ref="char:EOLhyphen"/>nyddoedd yn Griſt, 2. <hi>Cor.</hi> 12.2. yn y
+<pb n="48" facs="tcp:174186:33"/>14 ymma fe aned rhai plant yn ddiau er hynny ni fedyddiwyd yr un o<g ref="char:EOLunhyphen"/>honynt.</p>
+               </div>
+               <div n="20" type="contemplation">
+                  <head>Gwrthddadl. 20.</head>
+                  <p>Ethnicciaid oedd y rhai a fedyddiwyd yn nyddiau yr Apostol</p>
+               </div>
+               <div type="discourse">
+                  <head>Atteb.</head>
+                  <p>Ai ethnie oedd yr Arglwydd Jeſu? fe bedyddiwyd ef; yr Eunuch Addolwr y gwir Dduw, <hi>Corneliws</hi> gweddiau ag eliſſennau yr hwn oed gwedi dyfod mewn coffadwriaeth ger bron Duw: ai dymma 'r ethnicciaid, nage onid ŷw y rhai ſydd yn bedyddio plant bâch yn bedyddio ethnicciaid, <hi>Eph.</hi> 2.3. <hi>Yr ydŷn ni yn blant digofaint wrth naturiaeth:</hi> y chwi ſydd yn pledio am fedyddio cenhedloedd, yr ydim ni yn pledio, am fedyddio 'r crediniol.</p>
+               </div>
+               <div n="21" type="contemplation">
+                  <head>Gwrthddadl. 21.</head>
+                  <p n="21">21. <hi>Eithr mae Paul yn dywedyd,</hi> 1. Cor. 1.17. <hi>Ni ddanfonodd Criſt mohonofi i fedy<g ref="char:EOLhyphen"/>ddio ond i efangylu.</hi>
+                  </p>
+               </div>
+               <div type="discourse">
+                  <head>Atteb.</head>
+                  <p>I Paul fedyddio, Darllen, 1. <hi>Cor.</hi> 1.14.15. fe fedyddiodd <hi>Criſpus</hi> a <hi>Gajus,</hi> A theulu <hi>Stephanus:</hi> nawr y peth a wnaeth ef fe ai gwnaeth naill ai trwy orchymmŷn neu trwy ryfugaeth; eithr ni wnaeth moho<g ref="char:EOLhyphen"/>no trwy ryfugaeth gan hynny fe ai gw<g ref="char:EOLhyphen"/>naeth trwy ordinhâad, fe ddanfonwyd i
+<pb n="49" facs="tcp:174186:33"/>Efangylu; yr oedd bedydd yn cynwis mewn rhan or weinidogaeth ei Efangy<g ref="char:EOLhyphen"/>liad ef, yr oedd <hi>Philip</hi> gwedi ddewis yn ddiacon, er hynny fe fedyddiod yr Eu<g ref="char:EOLhyphen"/>nuch, fe a ddaeth bedydd i mewn fel rhan oi waith <hi>Act.</hi> 8. fellu nid ŷw raid i'r neb a gaffo alwad i Efangylu gael galwad i fedyddio; mae'r Llall yn dyfod i mewn megis ei waith ef.</p>
+               </div>
+               <div n="22" type="contemplation">
+                  <head>Gwrthddadl. 22.</head>
+                  <p n="22">22. <hi>Eithr fe fedyddiwyd tair mîl mewn un diwrnod pa fodd y gallau 'rhain i gŷd gael eu plwnſio mewn un diwrnod; hwy allent gael tannelliad eithr nid plwnſiad.</hi>
+                  </p>
+               </div>
+               <div type="discourse">
+                  <head>Atteb.</head>
+                  <p>Hwy allaſent yn hawdd gael eu plwn<g ref="char:EOLhyphen"/>ſio, canys yr oedd deuddeg Apoſtol a thrigein a dêg o ddiſcyblion megis <hi>Luc.</hi> 10.1. hynny ŷw pedwar igein a dau, fe allaiay rhain yn dda fedyddio tair mîl mewn diwrnod.</p>
+               </div>
+            </div>
+            <div type="chapter">
+               <head>BENNOD. IX.</head>
+               <p>Y Cyfflybieth rhwng bedydd y credadŷn a bedŷdd plant bâch.</p>
+               <div type="section">
+                  <list>
+                     <item>1. Mae gorchym<g ref="char:EOLunhyphen"/>mŷn am fedydd y credadyn, <hi>Mat.</hi> 28.19.20.</item>
+                     <pb n="50" facs="tcp:174186:34"/>
+                     <item>2. Mae gan fedydd y credadŷn lawer o ſiamplau, <hi>Act.</hi> 8.12. <hi>Pen.</hi> 2.37.41.42.</item>
+                     <item>3. Mae bedydd y credadŷn or nêf, <hi>Mat.</hi> 21.25.</item>
+                     <item>4. Cyngor Duw yw bedydd y cre<g ref="char:EOLhyphen"/>dadŷn <hi>Luc.</hi> 7.29.30.</item>
+                     <item>5. Fe gafodd bed<g ref="char:EOLhyphen"/>ydd y credadŷn i ſelio yn ogoned<g ref="char:EOLhyphen"/>dus, <hi>Mat.</hi> 3.</item>
+                     <item>6. Ymmedydd y credadŷn mae'r ſawl a fedyddier yn goſſod Fŷdd ar waith.</item>
+                     <item>7 Ymmedydd y credâdŷn mae'r dŷn yn ymmoſt<g ref="char:EOLhyphen"/>wng mewn gwei<g ref="char:EOLhyphen"/>thredoedd o yfu<g ref="char:EOLhyphen"/>dd dod.</item>
+                     <item>8. Ymmedydd y credadŷn mae'r
+<pb n="51" facs="tcp:174186:34"/>Credadŷn yn gwybod pa bryd y mae ef yn cael ei fedyddio.</item>
+                     <item>9. Mae'r crediniol yn cofio pa bryd y caiuſant i be<g ref="char:EOLhyphen"/>dyddio.</item>
+                     <item>10. Mae'r <hi>Rhuf.</hi> 6.3. Crediniol gwe<g ref="char:EOLhyphen"/>di eu claddu gi<g ref="char:EOLhyphen"/>da Chriſt yn eu bedydd.</item>
+                     <item>11. Mae'r hôll gre diniol ag y ſŷdd gwedi eu bedy<g ref="char:EOLhyphen"/>dio yn y gyfam<g ref="char:EOLhyphen"/>mod o râs.</item>
+                     <item>12. Mae'r hôll gre<g ref="char:EOLhyphen"/>diniol ag a fedy<g ref="char:EOLhyphen"/>ddier yn derbyn maddeuant pec<g ref="char:EOLhyphen"/>hodau, <hi>Act.</hi> 2.37.38.</item>
+                     <item>13. Duw a ddaw odd fôd i bawb a greddau ag a fe<g ref="char:EOLhyphen"/>dydder fôd yn gadwedig <hi>Marc.</hi> 16.16.</item>
+                     <item>14. Mae'r crediniol
+<pb n="52" facs="tcp:174186:35"/>yn Llawenhâu pan eu bedyddi<g ref="char:EOLhyphen"/>er hwy, <hi>Act.</hi> 28.16.</item>
+                     <item>15. Mae gan fe<g ref="char:EOLhyphen"/>dydd y credini<g ref="char:EOLhyphen"/>ol air Duw yn eglir, <hi>Mat.</hi> 28.19.</item>
+                     <item>16. Fe ddichon yr hôll fŷd ſiccrhau yn ddiammau ir crediniol gael eu bedyddio gan yr Apoſtolion, <hi>Act.</hi> 8.12.</item>
+                     <item>17. Mae pawb ag ſŷdd yn bedyd<g ref="char:EOLhyphen"/>dio plant yn cy<g ref="char:EOLhyphen"/>fadde fedyddio 'r crediniol.</item>
+                     <item>18. Mae'r crediniol gwedi eu bedy<g ref="char:EOLhyphen"/>ddio, yn gyfrei<g ref="char:EOLhyphen"/>thlon i fod yn gy<g ref="char:EOLhyphen"/>frannog o ſwpper yr Arglwydd.</item>
+                     <item>19. Mae'r holl gre<g ref="char:EOLhyphen"/>diniol a fedyddi<g ref="char:EOLhyphen"/>wyd yn feini cy<g ref="char:EOLhyphen"/>mwys y buwiol
+<pb n="53" facs="tcp:174186:35"/>dy dduw, 1. <hi>Ped.</hi> 2.5.</item>
+                     <item>20. Mae'r crediniol a fedyddier yn a<g ref="char:EOLhyphen"/>deiladu ar Griſt trwy eu ffydd eu hunain.</item>
+                     <item>21. Ni cyfargollir byth or ſawl a fe<g ref="char:EOLhyphen"/>dyddier ar eu ffŷdd eu hunain.</item>
+                     <item>22. Ycrediniol a fe<g ref="char:EOLhyphen"/>dyddiwyd a ddy<g ref="char:EOLhyphen"/>chwelwyd ag ni ddeuant bŷth i ddamnedigaeth.</item>
+                     <item>23. Y crediniol a fedyddier nid yd<g ref="char:EOLhyphen"/>ynt plant digofa<g ref="char:EOLhyphen"/>int, <hi>Joan.</hi> 3.36.</item>
+                     <item>24. Y crediniol a fedyddiwyd a wyddant fod yr Arglwydd Jeſu yn werthfawr, 1. <hi>Ped.</hi> 2.7.</item>
+                     <item>25. Maer crediniol yn caru Criſt ag yn cadw eu orchy<g ref="char:EOLhyphen"/>mŷnion
+<pb n="54" facs="tcp:174186:36"/>ef, <hi>Joan.</hi> 14.15.</item>
+                     <item>26. Maer crediniol a fedyddier yn addoli duw mewn yſpryd a gwirio<g ref="char:EOLhyphen"/>nedd ar cyfriw mae Duw yn i geiſio iw addôli ef, <hi>Jo.</hi> 4.23.</item>
+                     <item>27. Mae'n rhaid ei fedŷdd y credi<g ref="char:EOLhyphen"/>niol ſefŷll Cyhŷd ag y afo gair Duw, <hi>Mat.</hi> 5.15.</item>
+                     <item>28. Fe ddichon be<g ref="char:EOLhyphen"/>dŷdd y crediniol yrru ſatan ym<g ref="char:EOLhyphen"/>maith fel y gw<g ref="char:EOLhyphen"/>naeth Criſt gan ddywedŷd mae yn ſcrifennedig <hi>hwy a gredaſſant ag a fedyddiwyd.</hi>
+                     </item>
+                  </list>
+               </div>
+               <div type="section">
+                  <pb n="49" facs="tcp:174186:33"/>
+                  <list>
+                     <item>1. <hi>Nid oes ûn gorch<g ref="char:EOLhyphen"/>ymmyn am fedydd plant bâch.</hi>
+                     </item>
+                     <pb n="50" facs="tcp:174186:34"/>
+                     <item>2. Nid oes un ſiam<g ref="char:EOLhyphen"/>pal am fedydd plant.</item>
+                     <item>3, Bedydd plant bâch ſydd o ddynion.</item>
+                     <item>4. Nid oes am fedydd plant bâch ond cy<g ref="char:EOLhyphen"/>ngor dynion.</item>
+                     <item>5. Ni chafodd bed<g ref="char:EOLhyphen"/>ydd plant bâch eri<g ref="char:EOLhyphen"/>oed i ſelio gan Dduw.</item>
+                     <item>6. Eithr ymmedydd plant bâch nid ŷw 'r plentin yn goſſod dim ffŷdd ar waith.</item>
+                     <item>7. Eithr ymmedydd plant bâch nid ŷw 'r plent ŷn yn amly<g ref="char:EOLhyphen"/>gu un weithred o yfud-dod.</item>
+                     <item>8. Eithr ni wŷr plant bychein ddim yng<g ref="char:EOLhyphen"/>hŷlch
+<pb n="51" facs="tcp:174186:34"/>eu bedydd.</item>
+                     <item>9. Plant buchain nid ydŷnt yn cofio eu bedydd.</item>
+                     <item>10. Ni chafodd plant bychein eu claddu, hwy a dânellwyd yn unig.</item>
+                     <item>11. Nid ŷw 'r holl blant bychein ag ſydd gwedi eu be<g ref="char:EOLhyphen"/>dyddio yn y gyfam<g ref="char:EOLhyphen"/>mod o râs.</item>
+                     <item>12. Eithr ni dderbyn<g ref="char:EOLhyphen"/>niodd yr hôll blant bychein a fedydd<g ref="char:EOLhyphen"/>iwyd faddeuant pe<g ref="char:EOLhyphen"/>chodan.</item>
+                     <item>13. Ni addawod Duw y byddau 'r hôll blant buchein gad<g ref="char:EOLhyphen"/>wedig y fedyddier.</item>
+                     <item>14. Nid yw plant bu<g ref="char:EOLhyphen"/>chein
+<pb n="52" facs="tcp:174186:35"/>yn Llawen<g ref="char:EOLhyphen"/>hâu eithr yn arfe<g ref="char:EOLhyphen"/>rol yn wylo pan ei tannellir.</item>
+                     <item>15. Bedydd plant bâch ſydd a chanluni<g ref="char:EOLhyphen"/>aethau dynol gan<g ref="char:EOLhyphen"/>ddo yn ynig.</item>
+                     <item>16. Eithr ni ddichon yr hôll fŷd Certen<g ref="char:EOLhyphen"/>nu i un plentyn bâch gael ei fedy<g ref="char:EOLhyphen"/>ddio gan ŷr Apo<g ref="char:EOLhyphen"/>ſtolion.</item>
+                     <item>17. Eithr pawb a fe<g ref="char:EOLhyphen"/>dyddiodd y credini<g ref="char:EOLhyphen"/>ol ſydd yn gwadu fedyddio 'r plant bâch.</item>
+                     <item>18. Plant bâch gwe<g ref="char:EOLhyphen"/>di bedyddio nid yd<g ref="char:EOLhyphen"/>ŷnt lwfedig i fôd yn gyfrannog o ſwpper yr Arglw<g ref="char:EOLhyphen"/>ydd.</item>
+                     <item>19. Eithr nid ŷw yr hôll blant buchein a fedyddier yn ger<g ref="char:EOLhyphen"/>rig bywiol cymwys
+<pb n="53" facs="tcp:174186:35"/>i dŷ Dduw.</item>
+                     <item>20. Eithr mae 'r cy<g ref="char:EOLhyphen"/>friw y ſydd yn be<g ref="char:EOLhyphen"/>dyddio plant yn adeiladu ar ffydd un arall.</item>
+                     <item>21. Eithr y cyfriw a fedyddier ar ffŷdd rhai erraill a allant gael eu cyfargolli.</item>
+                     <item>22. Eithr plant bâch gwedi bedyddio ni ddychwelwyd, ag â allant ddyfod i ddamnedigaeth.</item>
+                     <item>23. Eithr plant bu<g ref="char:EOLhyphen"/>chain gwedi eu be<g ref="char:EOLhyphen"/>dyddio a allant fôd tan ddigofaint etto, Jo. 3.36.</item>
+                     <item>24. Eithr plant bu<g ref="char:EOLhyphen"/>chein a fedyddivyd ni wyddant fôd Chriſt yn werth<g ref="char:EOLhyphen"/>fawr.</item>
+                     <item>25. Eithr nid ŷw pla<g ref="char:EOLhyphen"/>nt buchain a fedy<g ref="char:EOLhyphen"/>ddier yn caru Criſt ag yn cadw ei or<g ref="char:EOLhyphen"/>mynion
+<pb n="54" facs="tcp:174186:36"/>ef.</item>
+                     <item>26. Eithr ni wŷr plant bâch beth a addolant.</item>
+                     <item>27. Rhaid ei fedydd ſyrthio am nad oes gair Duw ganddo.</item>
+                     <item>28. <hi>Eithr ni ellwch chwi yrru ſatan ymmaith gan ddy<g ref="char:EOLhyphen"/>wedŷd mae yn ſcri<g ref="char:EOLhyphen"/>fenedig</hi> plant by<g ref="char:EOLhyphen"/>chein a fedyddi<g ref="char:EOLhyphen"/>wyd; <hi>canŷs nid ŷw yn ſcrifenedig.</hi>
+                     </item>
+                  </list>
+               </div>
+            </div>
+            <div type="chapter">
+               <head>BENNOD X.</head>
+               <p>
+                  <hi>SCrythurau eglir ynghylch bedŷdd heb ddim canllŷniadau dynol oddiwrth ddoethineb dŷn, Mat.</hi> 3.13. Yna daeth yr Jeſu at
+<pb n="55" facs="tcp:174186:36"/>
+                  <hi>Joan.</hi> ŷw fedyddio ganddo <hi>adnod</hi> 15. a'r Jeſu a ddywedodd gâd yr awr hon canys fel hŷn y mae yn weddus i ni gyflawni pôb cyfiawnder <hi>adnod,</hi> 16. ar Jeſu wedi ei fedyddio a aeth <hi>yn y fan i fynu o'r dw<g ref="char:EOLhyphen"/>fr, Mat.</hi> 21.25. Bedydd Joan o bale yr oedd e ai or nef? a'i o ddynion os dy<g ref="char:EOLhyphen"/>wedwn or nêf? fe a ddywed wrthyn a phaham gan hynnŷ nas credaſſoch ef? <hi>Luc.</hi> 20.6. Ond os dywedwn o ddyn<g ref="char:EOLhyphen"/>ion y bobl a'n Llabyddiant, <hi>Luc.</hi> 7.29. a'r Pwblicaned a gyfiawnhaſant Dduw gwedi eu bedyddio <hi>adnod.</hi> 30. eithr y Phariſaeaid ar Cyfreithwŷr yn eu herbin eu humain a ddiyſtyraſſant gyngor Duw heb eu bedyddio ganddo, <hi>Mat.</hi> 2<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.19. Ewch dyſcwch yr holl genhed<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oedd gan eu bedyddio yn enw 'r tâd a'r Mab ar yſpryd glân, <hi>Act.</hi> 2.38. Ediferhewch a bedyddier pob un o<g ref="char:EOLunhyphen"/>honoch yn enw Jeſu Griſt, <hi>Act.</hi> 2.41. yna y rhai a dder<g ref="char:EOLhyphen"/>bŷnniaſſant ei air ef yn ewyllyſgar a fe<g ref="char:EOLhyphen"/>dyddiwyd, <hi>Marc.</hi> 16.16, Y neb y gretto ag a fedyddier a ſydd cadwedig, <hi>Act.</hi> 8.12. eithr pan gredaſſant hwy a fedyddi<g ref="char:EOLhyphen"/>wyd yn wŷr ag yn wragedd, <hi>Act.</hi> 8.36. yr efnuch a ddywedodd wele ddwf<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> beth ſydd yn Lluddias fy medyddio? <hi>Mat.</hi> 8.37. A <hi>Phillip</hi> a ddywedoedd os wŷt ti yn credu fe a Ellir, <hi>Mat.</hi> 8.38. A
+<pb n="56" facs="tcp:174186:37"/>hwy a aethant i wared ill dau ir dwfr <hi>Phillip</hi> a'r Efnuch ac fe ai bedyddiodd ef, <hi>Act.</hi> 9.18. a <hi>Saul</hi> a gyfododd ag a fedy<g ref="char:EOLhyphen"/>ddiwyd, <hi>Joan.</hi> 3.22. Wedi y pethau hŷn daeth yr Jeſu ai ddiſcyblion i wlad <hi>Judea.</hi> ag aroſſodd yno ag a fedyddiodd, <hi>Joan.</hi> 4.1. Jeſu a wnaeth ag a fedyddiodd mwy o ddiſcyblion nag <hi>Joan, Act.</hi> 10.57. A all neb luddias dwfr fel na fedy<g ref="char:EOLhyphen"/>ddier y rhai hŷn y rhai a dderbŷnnia<g ref="char:EOLhyphen"/>ſſant yr yſpryd glân fel ninnau, <hi>Act.</hi> 10.48. Ag fe orchmŷnnodd eu bedydio hwy yn enw'r Arglwydd <hi>Act</hi> 18.8. A <hi>Chriſpus</hi> yr Arch-fynagogydd a gredodd yn yr Arglwydd ai hôll dy a Llawer o'r <hi>Corinthiaid</hi> wrth wrando a gredaſſant ag a fedyddiwyd, <hi>Act.</hi> 22.16. ag yr awr hon beth yr wyt ti-yn aros? cyfod bedy<g ref="char:EOLhyphen"/>ddier di a golch ymmaith dy bechodau gan alw ar enw 'r Arglwydd, <hi>Ruf.</hi> 6.4. Claddwyd ni gan hynny gidag ef trwy fedydd, <hi>Gal.</hi> 2.7. canis cynifer un ag â fedyddiwyd i Griſt a wicaſant Griſt, 1. <hi>Ped.</hi> 3.21. Cyfflybieth cyfatebol yr hwn ſydd yn ein hachyb ni ſef bedydd, 1. <hi>Cor.</hi> 12.13. trwy un yſpryd y bedyddiwyd ni ôll yn un Corff, <hi>Act.</hi> 16.33. Ag efe ai cymmerth hwy yr awr honno o'r nos ag a olchodd eu briwiau ag efe a fedyddiwyd ar eiddo ôll yn y man <hi>adnod,</hi> 34.
+<pb n="57" facs="tcp:174186:37"/>gan gredu i Dduw efe ai hôll deulu, <hi>Luc.</hi> 3.21. a'r y Jeſu yn ei fedyddio agorwyd y nef, <hi>Luc.</hi> 3.23. Ar Jeſu ei hun oedd ynghylch dechre ei ddengmlwydd ar higain oed, <hi>Joan.</hi> 3.23. A <hi>Joan</hi> oedd yn agos i <hi>Salim</hi> Canys dyfroedd Lawer oedd yno.</p>
+            </div>
+            <div type="chapter">
+               <head>BENNOD. XI. <hi>Yſtyriauthau trwy ffordd o ddibenniad.</hi>
+               </head>
+               <p n="1">1. YStyria Mae pan fo eneidiau yn cwilyddio yna bydd i Dduw ddangos iddynt Ordinhâdau a dull ei dy, <hi>Eze.</hi> 43.11. Mae gan yr Eglwys Evangylaidd ei threfniadau.</p>
+               <p n="2">2. Yſtyria pan fo Duw yn rhoi i un rhyw enaid galon newydd: mae hynny er ei wneuthur ef yn gymwys i ordin<g ref="char:EOLhyphen"/>hâdau Duw, <hi>Eze.</hi> 11.19.20. <hi>Yſpryd ne<g ref="char:EOLhyphen"/>wydd a roddaf iddŷnt tynnaf hefyd y galon gîg; fel y rhodiant yn fy ordinhâdau ag y gw<g ref="char:EOLhyphen"/>nelont hwynt.</hi>
+               </p>
+               <p n="3">3. Yſtyria pa môr embydus ydyw i wrthſefyll ordinhâad Duw. darllen <hi>Ruf.</hi> 13.2. <hi>Luc.</hi> 7.29.30. a hwy a ddiyſty<g ref="char:EOLhyphen"/>raſſant gyngor. Duw heb eu bedyddio ganddo.</p>
+               <p n="4">
+                  <pb n="58" facs="tcp:174186:38"/>4. Yſtyria pa farnedigaethau a ganly<g ref="char:EOLhyphen"/>naſſant a'r newidiad ordinhâdau Duw, <hi>Iſai.</hi> 24.1. <hi>Wele yr Arglwydd yn gwneu<g ref="char:EOLhyphen"/>thur y ddaiar yn wâg ag a ddâd-ymchwel ei hwyneb hi:</hi> dyna newidiad; ond pa<g ref="char:EOLunhyphen"/>ham <hi>adnod</hi> 5. <hi>Newidiaſant y deddfau;</hi> pan fo Chriſt yn gorchymmŷn credwch a be<g ref="char:EOLhyphen"/>dyddier chwi; a phobl yn bedyddio plant bâch nad ydŷnt yn credu: pa un a'i bôd hŷn yn newidiad o'r ordinhâad bernwch Chwi.</p>
+               <p n="5">5. Yſtyriwch beth a ddigwyddodd i <hi>Nadab</hi> ag <hi>Abibu</hi> plant <hi>Aron, Levit.</hi> 10.1.2. Hwy a offrwmmaſſant y peth na or<g ref="char:EOLhyphen"/>chmynnodd yr Arglwydd nid oedd wâ<g ref="char:EOLhyphen"/>harddedig eithr nid yw hynny ddigon nid oedd è yn orchmynnedig nid ŷw bedydd plant bâch yn waharddedig: eithr mae yn beth ni orchmynnodd yr Arglwydd.</p>
+               <p n="6">6. Yſtyriwch mae Lle yr oedd cam<g ref="char:EOLhyphen"/>gymeriad yn y bedydd yna cewch we<g ref="char:EOLhyphen"/>led y cyfriw yn cael eu bedyddio dra<g ref="char:EOLhyphen"/>chefn darllenwch, <hi>Act.</hi> 19.1.2.3.4.5.6. Nawr os yn dy fedydd baban nid oed<g ref="char:EOLhyphen"/>dit yn addas nag mewn Jawn ddull yna dylit gymeryd dy fedyddio drachefn.</p>
+               <p n="7">7. Yſtyria os y peth a dderbynnieſt yn dy Jevengctud nid oedd fedydd: ag ni chafeſt dy fedyddio gwedin yna ir wyt ti
+<pb n="59" facs="tcp:174186:38"/>yn byw mewn eſceulyſdod o ordinhâad fawr Eva<g ref="char:EOLhyphen"/>ngulaedd: a elwi di hynny yn ufudd-dod nad oedd dy weithred di, ag ni chafodd di yn fodlon ag ni wyddeſt am<g ref="char:EOLunhyphen"/>dano nag elli gofio pa bryd y gwnaeth<g ref="char:EOLhyphen"/>pwyd, ag heb ddim ffydd yndo ag a elwy di hwnnw yn fedydd; nad oedd oth yfudd-dod di, eithr ewyllys dy rieni.</p>
+               <p n="8">8. Yſtyria fôd yn rhaid cadw 'r ordinhâdau me<g ref="char:EOLhyphen"/>gis y traddodwyd hwy 1. <hi>Cor.</hi> 11.2. eithr bedydd a draddodwyd ir crediniol ag nid i blant; Duw yn ddiau a draddododd enwaediad i blant bâch: eithr ni roddes eriod fedydd i blant bach.</p>
+               <p n="9">9. Yſtyria fôd Llaweroedd na fedyddiwyd er pan gredaſſant yn gommedd Bedydd iw plant, gadewch y mi ofyn ir cyfriw os oedd eu bedydd baban yn ddigonol iddynt: os ydynt yn i ommedd iw plant paham y cyfrifant eu bedydd baban eu hune<g ref="char:EOLhyphen"/>in yn ddigonol <hi>Pa hyd y cloffwch rhwng dau fe<g ref="char:EOLhyphen"/>ddwl.</hi>
+               </p>
+               <p n="10">10. Yſtyriwch i fod é y maes o bob ammau ir crediniol gael eu bedyddio, <hi>Act.</hi> 8.12. bedydd plant bäch ar y gorau nid yw ond amheuol. bed<g ref="char:EOLhyphen"/>ydd plant bäch y gafod yn fynuch ymholiad: eithr pa bryd yr ymholwyd bedydd y crediniol, Mae gwedi eu amlygu mewn geiriau eglir, <hi>hwy a greda<g ref="char:EOLhyphen"/>ſant ag a fedyddiwyd;</hi> nawr onid yw yn well my<g ref="char:EOLhyphen"/>ned ar hyd ffordd ddiamheuol nag ar hyd ffordd dywyll.</p>
+               <p n="11">11. Yſtyria fôd lliaws o ſiamplau o fedydd y cre<g ref="char:EOLhyphen"/>diniol: gwel yr. 12. ddalen or Llyfr hwn, eithr nid oes un Siampal o fedydd plant bâch.</p>
+               <p n="12">12. Yſtyria pe buaſſau jechadwrieth dy enaid yn ſefull ar yr ymholiad hwn; pa un ai 'r credi niol oedd yn cael eu bedyddio neu blant buchain oeddid yn eu fedyddio oni ddywedaſſit ti yn ſiccir y crediniol.</p>
+               <p n="13">
+                  <pb n="60" facs="tcp:174186:39"/>13. Yſtyria megis oedd genedigaeth fraint yn roddi hawl yr enwaediad tan y gyfraith felly yr oedd genedigaethfraint yn roddi hawl ir offeiriadaeth: nawr chwi fynnwch glymmu bedydd heb un gair i hâd y crediniol pa<g ref="char:EOLunhyphen"/>ham gan hynny na chlymmwch y weinidogaeth wrth hâd y gweinidogion oni fy<g ref="char:EOLhyphen"/>ddau hynny yn ganlyniaeth neu <hi>logick</hi> dieithr ddywedyd fôd hâd y pregethwyr tan yr efengil yn cael Llai<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ragorfraint nag oedd ir offeiriaid tan y ddeddf.</p>
+               <p n="14">14. Yſtyna nad ydym ni i dybied am neb yw<g ref="char:EOLhyphen"/>chlaw yr hyn ſydd yn ſcrifennedig, 1. <hi>Cor.</hi> 4.6. Nawr onid yw bedydd plant bâch wedi ſcrifennu fel ordinhâad na fernwch mohono i fôd yn ordinhâad.</p>
+               <p n="15">15. Yſtyria fod Criſt yn ffyddlon yn ei hôll dy <hi>heb,</hi> 3.5.9. Pe buaſſau ewyllys ei dâd gael o blant bâch eu bedyddio yn ſiccir fe fuaſſau mor ffydd<g ref="char:EOLhyphen"/>lon a gadel ini un gair yn ei ſcrythurau bendigedig.</p>
+               <p n="16">16. Yſtyria <hi>Moſes</hi> gwnaeth y cwbwl yn ôl y protreiad a ddangoſſwyd yn y mynydd, <hi>Exo.</hi> 25. <hi>adnod.</hi> 40. ag oni Chaiſſ gwaſanaethwyr yr Arglw<g ref="char:EOLhyphen"/>ydd wneuthur y cwbwl yn ôl y portreiad a ddan<g ref="char:EOLhyphen"/>goſſodd ef ini yn y teſtament newydd? y portreiad a adawyd yn argraffedig yw; <hi>hwy a gredaſſant ag a fedyddiwyd, Act.</hi> 8.12.</p>
+               <p n="17">17. Yſtyria beth na bydd y rhai hyn ſydd yn hyderu ar ganllyniaethau heb un <hi>text</hi> eglir i gania<g ref="char:EOLhyphen"/>tau i bapiſtiaid ag eraill yr un canllyniaethau am allorau a gwiſcoedd gwynion; fôd pob peth iw wneuthir yn weddaidd â hwy a ddywedant fôd gwiſcoedd gwynion yn weddaidd, a bôd coed o gwmpas y byrddau, yn weddaidd.</p>
+               <p n="18">18. Yſtyria: gan fôd yr ſcrythur mor gymwys yn goſſod i lawr yr amriw amgylchiadau am y rhai a fedyddier, <hi>Act.</hi> 16.13.14. Yr amſer, y <hi>ſabbath;</hi> y Lle <hi>wrth yſtlys afou;</hi> y cwſtwm,
+<pb n="61" facs="tcp:174186:39"/>
+                  <hi>gweddioedd arferedig iw gwneuthur;</hi> y cwm<g ref="char:EOLhyphen"/>peini; <hi>gwragedd;</hi> yr enw, <hi>Lud<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> y grefft; <hi>un yn gwerthu porphor;</hi> Lle yr oedd hi yn aros; <hi>yn y ddinas Thyatira;</hi> ei chrefydd <hi>un yn addoli Duw;</hi> ei gwaith, <hi>yr oedd hi vn gwrando gair Duw; yr Arglwydd agorodd ei chalon;</hi> yr offeryn, <hi>geiriau a Lefarwyd gan Paul,</hi> fellu, <hi>Act.</hi> 26.27. Cynifer o amgylchiadau; eithr nid un gair yn un Lle, gwedi ei Lefaru i un plentyn bâch gael erioed ei fedyddio, pa<g ref="char:EOLunhyphen"/>ham y gadewyd e allan pe buaſſau ewyllys Duw ar ei wneuthyd.</p>
+               <p n="19">19. Yſtyria, <hi>un rhoddwr cyfraith ſydd yr hwn a ddichon gadw a cholli: Jage.</hi> 4.22. <hi>Yr Arglwydd yw ein barnwr yr Arglwydd yw ein deddfwr Jſa.</hi> 33.32. y nawr pa le rhoddodd yr Arglwydd ym<g ref="char:EOLhyphen"/>ma ddeddf i fedyddio plant bâch? ni roddodd yr un rhoddwr cyfraith ymma un ddeddf am fedyddio plant bâch.</p>
+               <p n="20">20. Yſtyria pa un a'i dyfod bedydd plant bâch, tadau bedydd, a mammau bedydd, y groes yn y bedydd yr addewidion ar addynedau a wneir dros blant bâch i mewn eu gyd trwy ddychmygion dynol yn yr un amſer neu ar un reſymmau.</p>
+               <p n="21">21. Yſtyria pa un a'i bôd yn ddiogel iroi Lle i ganllyniaethau yn erbyn y datguddiedig reol, <hi>Mat.</hi> 28.19. <hi>dyſcwch a bedyddiwch.</hi>
+               </p>
+               <p n="22">22. Yſtyria pa un ai gaiff y rhain ſydd yn be<g ref="char:EOLhyphen"/>dyddio plant bâch ddywedyd Wrthynt hwy gan yr Arglwydd ûn diwrnod megis yn, <hi>Jſai.</hi> 1. 12. <hi>Pwy a ofynnodd y pethau hyn ar eich dwylo c<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </p>
+               <p n="23">23. Yſtyria beth na bôd am nôb o'r ordinhâdau evangylaidd cynifer o eiriau eglir ac ſydd am fed<g ref="char:EOLhyphen"/>ydd y crediniol.</p>
+               <p n="24">24. Yſtyria pa un a'i dyfôd di wrth gymeryd dy fedyddio yn cyfiawnhau Duw; ac oth ran dy hun heb gymeryd dy fedyddio yn diyſtyru cyngor Duw <hi>Luc.</hi> 7.29.30.</p>
+               <p n="25">
+                  <pb n="62" facs="tcp:174186:40"/>25. Yſtyria pa un a'i bôd y rhai hynny ag ſydd yn dala bedydd plant bâch yn pregethu fôd bedydd yn arwydd o'r ail enedigaeth, a pheth na bôd pawb neu neb or plant bâch a fedyddiwyd gwedi eu hail<g ref="char:EOLhyphen"/>eni.</p>
+               <p n="26">26. Yſtyria beth na bydd cwilydd ar y rhai hyn<g ref="char:EOLhyphen"/>ny un diwrnod na edrychant ar hôll orchmynion Duw, <hi>Pſa.</hi> 119.6.</p>
+               <p n="27">27. Yſtyria Pa un a'i meiddiau <hi>Abraham</hi> en<g ref="char:EOLhyphen"/>waedu ar ei blentyn heb air y gorchymmyn gan hynny pa fôdd meiddi fedyddio dy blentyn heb y gair.</p>
+               <p n="28">28. Yſtyria pa un a'i ein bôd ni i gyrchu ar ôl purdeb yr ordinhâdau a pha un a'i bôd yr ordinhâ<g ref="char:EOLhyphen"/>dau hynny ag ſydd iddynt yn rheol datcuddiedig yn fwy pûr.</p>
+               <p n="29">29. Yſtyria pa un a'i hwy, a hwy yn unig, a fwynhâant y groeſo da hynny ar ddyfodiad Chriſt y rhai a wnaeth y peth a orchmynnodd ag fel y gorchmynnodd.</p>
+               <p>Y nawr mi a ddeiſyfaf arnat ti i yſtyried beth a ddywedpwyd yn y matter hwn A Duw gogoned<g ref="char:EOLhyphen"/>dus y gwirio<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d a roddo i ti yſpryd y gwirionedd yr hwn a ddichon dy arwein di i bob gwirionedd ath adeiladu di i fynu a rhoddi i ti gyfran ym<g ref="char:EOLhyphen"/>myſc y rhai a ſancteiddiwyd: ag fel mewn pur<g ref="char:EOLhyphen"/>deb gida didwyl gariad tu<g ref="char:EOLunhyphen"/>ag at Dduw ath enaid dithau y ſcrifennwyd y pethau hyn felly yr unig Dduw a thâd ein Harglwydd Jeſu ath Sancteiddio di yn gwbwl mewn Corph enaid ag yſpryd ag a roddo i ti galon i chwilio pa un a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bod y pethau hyn felly.</p>
+               <trailer>TERFIN.</trailer>
+               <pb facs="tcp:174186:40"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
